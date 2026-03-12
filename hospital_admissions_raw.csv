@@ -1,0 +1,1021 @@
+patient_id,age,gender,diagnosis,admission_date,length_of_stay,systolic_bp,hb_level,ward,outcome
+MRN0001,52.0,F,Tuberculosis,2024-10-16,,142.0,11.1,Medical,LAMA
+MRN0002,,Female,Acute Kidney Injury,2023-04-25,8.8,112.0,10.7,Surgical,Discharged
+MRN0003,72.0,Female,HIV/AIDS,2023-01-26,1.7,101.0,8.9,Medical,Discharged
+MRN0004,61.0,Female,Tuberculosis,2023-10-09,0.1,104.0,8.6,Medical,Discharged
+MRN0005,21.0,Female,HIV/AIDS,2023-09-08,6.7,115.0,12.7,Maternity,Discharged
+MRN0006,83.0,Male,Acute Kidney Injury,2023-08-17,9.0,118.0,10.1,Medical,Discharged
+MRN0007,87.0,Female,Type 2 Diabetes,2023-05-23,6.7,,12.3,Pediatric,Discharged
+MRN0008,75.0,Female,HIV/AIDS,2023-04-15,0.8,99.0,9.3,Pediatric,LAMA
+MRN0009,75.0,Male,Tuberculosis,2024-11-23,7.0,116.0,12.0,Pediatric,Discharged
+MRN0010,88.0,Male,Tuberculosis,2024-07-12,7.3,129.0,14.8,Maternity,Discharged
+MRN0011,24.0,Female,HIV/AIDS,2023-03-31,,,13.0,Surgical,Discharged
+MRN0012,3.0,Female,Sepsis,2024-08-27,7.3,114.0,10.5,ICU,Discharged
+MRN0013,22.0,Male,Acute Kidney Injury,2024-03-08,9.4,117.0,12.1,Medical,Deceased
+MRN0014,53.0,Female,Sepsis,2023-02-02,4.8,106.0,10.9,ICU,Discharged
+MRN0015,2.0,Female,Heart Failure,2023-01-31,0.5,124.0,11.5,Surgical,Discharged
+MRN0016,88.0,Male,Acute Kidney Injury,2023-04-06,3.3,108.0,10.7,Surgical,Discharged
+MRN0017,30.0,F,HIV/AIDS,2023-08-12,0.4,136.0,11.1,Maternity,Referred
+MRN0018,38.0,Female,Hypertension,2023-08-27,2.6,89.0,,Pediatric,Discharged
+MRN0019,2.0,Female,HIV/AIDS,2024-06-01,2.6,,9.0,Pediatric,Referred
+MRN0020,64.0,Female,Sepsis,2024-09-08,0.3,131.0,9.0,Surgical,Discharged
+MRN0021,60.0,,Type 2 Diabetes,2023-01-28,2.1,129.0,8.0,Maternity,Discharged
+MRN0022,21.0,Female,HIV/AIDS,2024-07-28,0.6,179.0,7.5,Maternity,Discharged
+MRN0023,,Female,HIV/AIDS,2023-07-23,8.3,,,Medical,LAMA
+MRN0024,76.0,M,Type 2 Diabetes,2024-10-27,14.8,,11.9,Pediatric,LAMA
+MRN0025,58.0,Male,HIV/AIDS,2024-12-19,0.4,260.0,9.3,Surgical,Discharged
+MRN0026,22.0,Male,Pneumonia,2024-07-12,15.5,89.0,12.8,ICU,Discharged
+MRN0027,89.0,Female,Hypertension,2024-03-05,3.7,123.0,11.6,Pediatric,Discharged
+MRN0028,49.0,Female,Malaria,2023-08-14,1.8,108.0,6.6,Medical,Discharged
+MRN0029,59.0,Female,Hypertension,2024-04-04,0.4,143.0,13.1,Maternity,Discharged
+MRN0030,,Male,HIV/AIDS,2024-08-26,3.5,114.0,13.5,Surgical,LAMA
+MRN0031,60.0,Female,Pneumonia,2023-10-12,7.9,123.0,9.0,Pediatric,LAMA
+MRN0032,80.0,Male,Acute Kidney Injury,2023-01-07,6.1,112.0,12.6,ICU,Discharged
+MRN0033,15.0,Female,HIV/AIDS,2023-06-13,0.3,160.0,,Medical,Discharged
+MRN0034,62.0,Female,Sepsis,2024-12-15,0.4,119.0,11.7,Medical,Deceased
+MRN0035,62.0,Female,Pneumonia,2024-03-08,2.6,162.0,8.3,Pediatric,Deceased
+MRN0036,47.0,Female,Type 2 Diabetes,2023-12-15,1.7,141.0,7.0,ICU,Discharged
+MRN0037,62.0,Female,Pneumonia,2023-10-12,1.3,270.0,10.5,Medical,Discharged
+MRN0038,51.0,Female,Type 2 Diabetes,2023-06-09,1.6,132.0,,Surgical,Discharged
+MRN0039,55.0,M,Heart Failure,2023-08-09,8.1,133.0,,Medical,Discharged
+MRN0040,64.0,Male,Malaria,2023-12-11,13.2,86.0,8.5,ICU,Discharged
+MRN0041,3.0,Female,Anemia,2023-04-15,2.6,119.0,28.0,Maternity,Discharged
+MRN0042,51.0,Female,Pneumonia,2023-04-05,11.8,142.0,12.2,Maternity,Discharged
+MRN0043,7.0,Female,Tuberculosis,2024-01-25,1.9,124.0,11.4,Pediatric,Discharged
+MRN0044,21.0,Female,Sepsis,2023-04-10,3.2,97.0,12.0,ICU,Discharged
+MRN0045,73.0,M,HIV/AIDS,2024-01-03,1.3,124.0,9.8,Medical,Discharged
+MRN0046,,,Sepsis,2023-12-19,5.1,159.0,14.4,Medical,Deceased
+MRN0047,18.0,Male,Hypertension,2024-09-10,19.3,150.0,8.6,Maternity,Deceased
+MRN0048,4.0,Male,Anemia,2023-09-28,4.6,124.0,12.7,Maternity,Discharged
+MRN0049,89.0,Female,Hypertension,2023-02-14,2.2,144.0,14.5,Surgical,Discharged
+MRN0050,60.0,Male,Heart Failure,2024-04-15,5.2,118.0,12.7,Maternity,LAMA
+MRN0051,14.0,Female,Anemia,2024-07-03,0.7,91.0,11.0,Surgical,Discharged
+MRN0052,9.0,F,Anemia,2023-05-08,11.0,107.0,10.2,Medical,Discharged
+MRN0053,53.0,Male,Hypertension,2024-01-23,3.5,156.0,14.1,Surgical,Discharged
+MRN0054,2.0,Male,Type 2 Diabetes,2023-03-22,3.0,120.0,0.5,Surgical,Discharged
+MRN0055,84.0,Male,Hypertension,2024-07-19,4.4,120.0,9.1,Pediatric,Discharged
+MRN0056,60.0,Female,Sepsis,2023-10-28,4.9,119.0,10.5,Maternity,LAMA
+MRN0057,71.0,Female,Type 2 Diabetes,2024-10-05,0.4,163.0,14.6,Surgical,Discharged
+MRN0058,44.0,Male,Sepsis,2024-09-25,5.7,158.0,12.4,Medical,Discharged
+MRN0059,8.0,F,Heart Failure,2024-01-06,1.4,169.0,25.0,ICU,LAMA
+MRN0060,47.0,M,HIV/AIDS,2024-08-14,6.3,122.0,10.7,Surgical,Discharged
+MRN0061,35.0,Male,Acute Kidney Injury,2023-07-16,,131.0,10.0,Maternity,Discharged
+MRN0062,78.0,Female,Type 2 Diabetes,2024-12-22,8.1,95.0,9.7,Pediatric,Discharged
+MRN0063,81.0,M,Heart Failure,2023-03-13,4.0,155.0,13.9,Medical,Discharged
+MRN0064,36.0,Male,Tuberculosis,2023-02-16,3.7,102.0,8.1,Pediatric,Discharged
+MRN0065,50.0,Male,Heart Failure,2024-11-08,0.8,129.0,15.5,ICU,Discharged
+MRN0066,4.0,Male,Hypertension,2023-08-22,7.5,103.0,13.6,Surgical,Discharged
+MRN0067,2.0,Male,Hypertension,2023-10-24,,113.0,14.2,Surgical,Referred
+MRN0068,6.0,F,Acute Kidney Injury,2023-03-23,3.4,108.0,10.3,Maternity,Discharged
+MRN0069,54.0,F,Heart Failure,2023-08-27,1.7,113.0,11.1,Surgical,Discharged
+MRN0070,,Male,Malaria,2023-04-14,0.7,114.0,7.9,Medical,Discharged
+MRN0071,54.0,Male,HIV/AIDS,2024-01-25,5.0,114.0,10.2,ICU,Discharged
+MRN0072,63.0,Male,Hypertension,2023-10-12,0.3,142.0,12.7,Pediatric,Discharged
+MRN0073,,Male,Acute Kidney Injury,2024-04-09,6.9,103.0,14.7,ICU,LAMA
+MRN0074,44.0,M,HIV/AIDS,2024-10-12,1.9,129.0,8.7,Surgical,Discharged
+MRN0075,34.0,Male,Heart Failure,2024-01-09,0.0,149.0,10.6,Pediatric,Discharged
+MRN0076,74.0,Male,Heart Failure,2023-06-16,200.0,115.0,,Maternity,Referred
+MRN0077,62.0,Male,Anemia,2024-01-15,0.2,111.0,8.0,ICU,Discharged
+MRN0078,14.0,Female,Acute Kidney Injury,2023-12-30,1.6,120.0,13.0,Pediatric,Discharged
+MRN0079,48.0,Male,Hypertension,2023-08-03,6.1,149.0,9.7,Pediatric,Deceased
+MRN0080,15.0,Female,Malaria,2024-11-17,,129.0,11.0,Pediatric,Deceased
+MRN0081,72.0,Male,Heart Failure,2023-10-01,9.1,114.0,10.4,Medical,Referred
+MRN0082,78.0,M,Malaria,2024-12-19,0.0,135.0,,ICU,Discharged
+MRN0083,87.0,Female,Heart Failure,2024-11-30,1.4,103.0,11.5,Pediatric,Discharged
+MRN0084,62.0,Male,Hypertension,2024-10-25,6.8,139.0,11.0,ICU,Referred
+MRN0085,40.0,Female,HIV/AIDS,2023-03-15,1.9,,,Pediatric,Discharged
+MRN0086,85.0,F,Pneumonia,2024-09-15,0.5,119.0,9.7,Maternity,Discharged
+MRN0087,80.0,,HIV/AIDS,2024-10-12,2.2,108.0,12.3,Maternity,Deceased
+MRN0088,82.0,Female,Heart Failure,2023-06-25,,107.0,15.6,Maternity,Discharged
+MRN0089,53.0,Female,Sepsis,2024-06-30,,,11.8,Surgical,Referred
+MRN0090,24.0,F,Pneumonia,2023-09-08,1.9,150.0,14.0,Pediatric,Discharged
+MRN0091,26.0,Female,Pneumonia,2023-06-17,7.8,112.0,,Surgical,Discharged
+MRN0092,89.0,Male,Malaria,2024-04-18,11.1,134.0,,ICU,Discharged
+MRN0093,60.0,F,Acute Kidney Injury,2024-01-24,2.8,83.0,8.8,Surgical,Deceased
+MRN0094,41.0,Male,Malaria,2023-10-04,12.0,113.0,28.0,ICU,Discharged
+MRN0095,29.0,Female,Malaria,2024-10-17,2.4,124.0,9.7,ICU,Discharged
+MRN0096,15.0,Male,Sepsis,2024-12-05,16.6,107.0,14.5,ICU,Referred
+MRN0097,45.0,Male,HIV/AIDS,2024-07-24,0.5,,13.9,Surgical,Referred
+MRN0098,65.0,Male,HIV/AIDS,2023-08-13,5.8,,12.1,Pediatric,LAMA
+MRN0099,89.0,M,Tuberculosis,2024-12-02,3.4,131.0,7.7,Surgical,Discharged
+MRN0100,71.0,Male,Heart Failure,2023-11-29,2.5,121.0,11.0,Pediatric,Discharged
+MRN0101,9.0,Male,Sepsis,2023-02-27,5.0,80.0,12.3,Pediatric,LAMA
+MRN0102,88.0,Male,Tuberculosis,2023-08-23,6.1,83.0,11.9,ICU,Discharged
+MRN0103,,Female,Hypertension,2023-02-02,0.0,113.0,6.9,Surgical,Discharged
+MRN0104,8.0,,Heart Failure,2023-11-20,0.9,134.0,9.3,Pediatric,Discharged
+MRN0105,88.0,Female,Heart Failure,2024-02-15,6.2,70.0,11.3,Maternity,Deceased
+MRN0106,63.0,Female,Anemia,2023-10-02,5.5,115.0,12.8,Pediatric,Discharged
+MRN0107,11.0,F,Anemia,2023-03-09,16.9,114.0,6.0,Maternity,Referred
+MRN0108,81.0,Female,Type 2 Diabetes,2023-08-05,7.2,153.0,11.1,Surgical,Discharged
+MRN0109,8.0,Male,Type 2 Diabetes,2024-08-03,15.1,117.0,11.9,Surgical,Discharged
+MRN0110,35.0,Male,Malaria,2023-11-19,6.1,133.0,13.6,Surgical,Discharged
+MRN0111,35.0,Male,Hypertension,2023-08-06,1.8,,13.2,Pediatric,Discharged
+MRN0112,33.0,Female,Pneumonia,2024-11-02,0.6,82.0,13.0,Medical,Discharged
+MRN0113,5.0,Female,Pneumonia,2024-05-26,7.6,140.0,9.5,Pediatric,Discharged
+MRN0114,41.0,M,Anemia,2024-02-10,5.2,129.0,6.7,Pediatric,Discharged
+MRN0115,28.0,Male,Anemia,2024-10-20,0.2,135.0,10.5,ICU,Referred
+MRN0116,7.0,Female,Anemia,2024-04-14,2.2,204.0,14.0,ICU,Deceased
+MRN0117,,Female,Sepsis,2023-05-27,15.7,83.0,15.0,Pediatric,Referred
+MRN0118,72.0,Male,Acute Kidney Injury,2023-09-29,3.5,159.0,13.3,Maternity,Discharged
+MRN0119,12.0,M,Type 2 Diabetes,2023-05-23,2.8,119.0,12.6,ICU,Discharged
+MRN0120,,Female,Sepsis,2023-09-10,3.1,131.0,12.4,Pediatric,Discharged
+MRN0121,33.0,Male,HIV/AIDS,2024-07-28,1.2,124.0,10.1,Medical,LAMA
+MRN0122,48.0,Female,Pneumonia,2024-07-05,2.3,117.0,,Maternity,Deceased
+MRN0123,23.0,Female,Heart Failure,2023-09-27,2.3,114.0,15.7,Surgical,Deceased
+MRN0124,,Female,Type 2 Diabetes,2024-08-21,0.3,15.0,9.1,Pediatric,Discharged
+MRN0125,88.0,Female,Tuberculosis,2024-03-14,7.3,95.0,15.5,Pediatric,Discharged
+MRN0126,37.0,Female,HIV/AIDS,2024-08-20,2.7,140.0,10.7,Maternity,Discharged
+MRN0127,44.0,M,Type 2 Diabetes,2024-02-13,8.6,117.0,,ICU,Discharged
+MRN0128,86.0,Male,Sepsis,2024-01-06,9.5,102.0,8.0,ICU,Discharged
+MRN0129,35.0,Male,Hypertension,2023-08-13,1.2,116.0,13.0,ICU,LAMA
+MRN0130,65.0,Male,Heart Failure,2023-05-22,5.4,150.0,9.7,Surgical,Discharged
+MRN0131,47.0,Female,Type 2 Diabetes,2024-06-05,3.2,114.0,8.0,Maternity,Discharged
+MRN0132,78.0,Male,Acute Kidney Injury,2024-05-20,10.6,132.0,12.0,Maternity,Discharged
+MRN0133,3.0,F,Anemia,2023-04-04,1.2,110.0,14.0,ICU,LAMA
+MRN0134,1.0,Female,Anemia,2023-02-18,5.7,140.0,9.4,ICU,Discharged
+MRN0135,5.0,M,Heart Failure,2023-04-23,4.7,139.0,7.8,Medical,Referred
+MRN0136,14.0,,Sepsis,2023-06-06,1.7,,11.3,Medical,LAMA
+MRN0137,27.0,M,Anemia,2024-10-04,0.7,121.0,11.3,Pediatric,Discharged
+MRN0138,9.0,F,Type 2 Diabetes,2023-06-13,5.3,138.0,12.9,Pediatric,Discharged
+MRN0139,79.0,Female,Tuberculosis,2024-11-27,6.7,,,Maternity,Discharged
+MRN0140,15.0,Female,Pneumonia,2024-03-08,1.9,151.0,11.4,Maternity,Discharged
+MRN0141,42.0,Male,Pneumonia,2024-09-02,5.2,111.0,16.1,Surgical,Deceased
+MRN0142,77.0,Male,HIV/AIDS,2023-03-07,2.5,140.0,12.1,Surgical,Referred
+MRN0143,,Female,Malaria,2024-01-30,6.2,121.0,10.6,Medical,Discharged
+MRN0144,63.0,Female,Hypertension,2024-01-26,1.1,124.0,7.5,Pediatric,Discharged
+MRN0145,52.0,Male,Heart Failure,2024-09-02,11.0,,10.8,Medical,Discharged
+MRN0146,4.0,Female,HIV/AIDS,2024-04-24,1.7,130.0,10.7,Medical,Discharged
+MRN0147,23.0,F,Malaria,2024-06-25,2.3,123.0,13.9,Pediatric,Discharged
+MRN0148,15.0,Female,Sepsis,2023-09-15,0.3,129.0,12.7,Surgical,Discharged
+MRN0149,43.0,Female,Acute Kidney Injury,2024-07-20,0.6,157.0,8.6,Pediatric,Discharged
+MRN0150,29.0,M,Acute Kidney Injury,2023-01-12,3.6,15.0,11.9,ICU,Deceased
+MRN0151,36.0,,Hypertension,2024-11-27,200.0,142.0,13.2,ICU,Discharged
+MRN0152,13.0,Female,Anemia,2023-04-28,9.0,116.0,15.3,ICU,Discharged
+MRN0153,32.0,M,Type 2 Diabetes,2024-11-29,0.1,107.0,13.7,Maternity,Discharged
+MRN0154,71.0,,HIV/AIDS,2024-07-03,2.4,144.0,13.4,Surgical,Deceased
+MRN0155,,,HIV/AIDS,2023-10-01,2.1,143.0,11.7,Surgical,Discharged
+MRN0156,86.0,Male,Heart Failure,2024-10-18,0.1,154.0,12.5,Maternity,Discharged
+MRN0157,28.0,Female,Heart Failure,2023-12-15,0.7,113.0,14.6,Medical,Discharged
+MRN0158,66.0,Male,Acute Kidney Injury,2023-04-25,2.7,120.0,8.2,ICU,Referred
+MRN0159,42.0,Male,Acute Kidney Injury,2023-10-28,3.4,92.0,10.6,ICU,Discharged
+MRN0160,45.0,Female,Tuberculosis,2024-03-21,2.6,117.0,9.6,Medical,Deceased
+MRN0161,62.0,Female,Tuberculosis,2023-06-11,3.8,145.0,12.4,Pediatric,LAMA
+MRN0162,57.0,F,Anemia,2024-04-09,4.5,,14.6,Pediatric,Referred
+MRN0163,6.0,Male,Tuberculosis,2023-01-04,,260.0,,Surgical,Discharged
+MRN0164,28.0,F,Type 2 Diabetes,2023-09-27,3.1,121.0,,Maternity,Discharged
+MRN0165,28.0,Female,Type 2 Diabetes,2024-05-27,16.6,131.0,10.5,Surgical,Discharged
+MRN0166,44.0,Female,HIV/AIDS,2023-07-02,3.7,102.0,13.8,Pediatric,LAMA
+MRN0167,84.0,F,Pneumonia,2024-06-03,5.7,127.0,12.8,Medical,Discharged
+MRN0168,30.0,Female,Type 2 Diabetes,2023-04-19,1.9,65.0,12.6,Surgical,Discharged
+MRN0169,62.0,Male,Malaria,2024-10-02,7.4,,10.8,ICU,Referred
+MRN0170,75.0,M,Acute Kidney Injury,2023-11-02,7.4,92.0,8.3,ICU,Discharged
+MRN0171,89.0,Male,Heart Failure,2024-10-16,3.7,260.0,12.8,Medical,Discharged
+MRN0172,62.0,Male,Tuberculosis,2024-06-03,18.7,141.0,9.4,Pediatric,Discharged
+MRN0173,1.0,M,HIV/AIDS,2024-09-15,0.7,134.0,17.0,ICU,Discharged
+MRN0174,27.0,Male,Hypertension,2023-07-23,0.1,155.0,12.9,ICU,Deceased
+MRN0175,62.0,M,Heart Failure,2023-06-06,7.4,106.0,10.0,Maternity,Discharged
+MRN0176,77.0,Male,Malaria,2024-01-18,8.2,160.0,10.0,Surgical,Discharged
+MRN0177,3.0,F,Tuberculosis,2023-06-15,0.6,144.0,,Pediatric,Discharged
+MRN0178,70.0,Male,Malaria,2024-07-06,1.5,120.0,10.9,Surgical,Referred
+MRN0179,72.0,,Acute Kidney Injury,2024-06-27,0.1,148.0,14.3,Pediatric,Referred
+MRN0180,27.0,M,Acute Kidney Injury,2023-01-01,1.7,103.0,12.0,ICU,Discharged
+MRN0181,9.0,Male,Anemia,2024-09-05,7.4,109.0,9.7,Maternity,Discharged
+MRN0182,62.0,Female,HIV/AIDS,2023-11-28,3.6,113.0,,Surgical,Discharged
+MRN0183,37.0,,Heart Failure,2024-05-15,2.1,114.0,11.6,ICU,LAMA
+MRN0184,51.0,Female,Sepsis,2023-01-20,2.3,104.0,13.4,Pediatric,Discharged
+MRN0185,44.0,Male,Sepsis,2023-04-25,0.0,149.0,10.0,Surgical,Referred
+MRN0186,24.0,Female,Heart Failure,2024-01-07,1.8,120.0,12.4,Surgical,Discharged
+MRN0187,79.0,Female,Hypertension,2023-11-11,5.2,132.0,12.3,ICU,Discharged
+MRN0188,,Female,HIV/AIDS,2023-09-03,18.3,114.0,6.8,Surgical,Discharged
+MRN0189,32.0,Female,Malaria,2023-03-01,9.4,89.0,16.5,Maternity,Deceased
+MRN0190,88.0,Female,Hypertension,2023-09-04,0.1,130.0,,Maternity,Discharged
+MRN0191,52.0,Male,Pneumonia,2024-08-03,11.4,87.0,10.5,ICU,LAMA
+MRN0192,62.0,Female,Heart Failure,2023-03-22,7.6,124.0,8.7,Pediatric,Discharged
+MRN0193,58.0,Female,Malaria,2023-03-29,7.6,98.0,12.4,ICU,Discharged
+MRN0194,52.0,Male,Sepsis,2024-05-12,3.1,165.0,11.7,Maternity,Discharged
+MRN0195,12.0,F,Type 2 Diabetes,2023-03-12,2.5,143.0,12.4,Medical,Deceased
+MRN0196,39.0,Female,Anemia,2024-06-29,1.8,127.0,12.0,Medical,Discharged
+MRN0197,2.0,Female,Sepsis,2023-05-09,0.3,150.0,12.8,Surgical,Deceased
+MRN0198,3.0,M,HIV/AIDS,2023-05-12,1.3,108.0,15.1,Surgical,LAMA
+MRN0199,56.0,Female,Acute Kidney Injury,2024-11-06,1.4,136.0,12.9,Medical,LAMA
+MRN0200,81.0,M,Type 2 Diabetes,2024-05-01,3.3,129.0,8.9,Maternity,Discharged
+MRN0201,,Female,Anemia,2024-07-16,6.9,130.0,14.9,Surgical,Referred
+MRN0202,2.0,Male,Anemia,2023-06-19,3.2,150.0,15.6,ICU,Referred
+MRN0203,2.0,Female,Pneumonia,2023-09-29,0.3,140.0,19.4,ICU,Discharged
+MRN0204,54.0,Female,Pneumonia,2024-06-24,15.8,131.0,8.7,Maternity,Discharged
+MRN0205,87.0,Female,Tuberculosis,2024-09-13,14.3,92.0,,Surgical,Discharged
+MRN0206,1.0,Male,Sepsis,2024-03-09,,106.0,6.3,ICU,Discharged
+MRN0207,19.0,Male,Sepsis,2023-08-05,23.7,123.0,12.9,Surgical,Discharged
+MRN0208,2.0,Male,Sepsis,2024-07-06,3.9,,10.1,Surgical,Discharged
+MRN0209,,Male,Tuberculosis,2024-12-07,16.5,102.0,16.3,ICU,Discharged
+MRN0210,44.0,Female,Hypertension,2023-07-25,0.4,173.0,9.6,Medical,Discharged
+MRN0211,32.0,Male,Anemia,2024-12-31,,155.0,7.3,ICU,Discharged
+MRN0212,70.0,Female,Type 2 Diabetes,2023-11-16,1.3,137.0,10.3,Maternity,Discharged
+MRN0213,32.0,Female,HIV/AIDS,2024-02-13,1.1,126.0,6.6,Pediatric,Discharged
+MRN0214,68.0,Female,Anemia,2024-11-18,150.0,121.0,13.4,ICU,Discharged
+MRN0215,55.0,M,Pneumonia,2024-10-27,4.9,106.0,6.3,Surgical,Discharged
+MRN0216,75.0,Female,Malaria,2024-01-18,7.6,127.0,11.6,Surgical,Discharged
+MRN0217,56.0,M,Acute Kidney Injury,2024-03-24,4.3,130.0,6.3,ICU,Discharged
+MRN0218,17.0,Female,Tuberculosis,2024-06-13,0.8,100.0,10.7,Pediatric,Referred
+MRN0219,38.0,Male,Heart Failure,2024-04-07,8.3,132.0,15.6,ICU,Discharged
+MRN0220,24.0,,Malaria,2023-05-04,5.1,122.0,12.4,Pediatric,Referred
+MRN0221,69.0,Male,HIV/AIDS,2023-09-11,2.5,87.0,9.3,Pediatric,Discharged
+MRN0222,70.0,Male,Sepsis,2023-08-19,5.6,108.0,11.4,Maternity,Discharged
+MRN0223,86.0,M,Pneumonia,2023-03-07,1.5,117.0,11.5,Surgical,Discharged
+MRN0224,11.0,Male,Pneumonia,2023-12-13,2.1,163.0,12.7,Surgical,Discharged
+MRN0225,16.0,M,Pneumonia,2023-01-22,12.5,136.0,8.1,Pediatric,Referred
+MRN0226,73.0,Female,Sepsis,2024-08-25,1.7,98.0,13.0,Surgical,Discharged
+MRN0227,59.0,F,Heart Failure,2024-07-21,3.2,135.0,4.7,Medical,Discharged
+MRN0228,70.0,Female,Tuberculosis,2023-08-24,11.0,94.0,9.9,Pediatric,Discharged
+MRN0229,80.0,Female,Malaria,2024-08-25,6.2,147.0,,Surgical,Discharged
+MRN0230,,,Sepsis,2023-08-14,0.3,116.0,13.1,Medical,LAMA
+MRN0231,20.0,Female,HIV/AIDS,2023-01-08,0.8,123.0,11.6,Maternity,Referred
+MRN0232,59.0,,Tuberculosis,2023-03-14,0.0,15.0,8.0,Surgical,Discharged
+MRN0233,36.0,Male,HIV/AIDS,2024-12-25,5.0,99.0,9.0,Medical,Discharged
+MRN0234,19.0,Female,Tuberculosis,2024-10-08,3.0,97.0,12.0,ICU,Discharged
+MRN0235,67.0,Male,Heart Failure,2023-03-02,0.7,113.0,11.3,ICU,Deceased
+MRN0236,19.0,Female,Acute Kidney Injury,2023-08-23,120.0,146.0,10.1,Medical,Discharged
+MRN0237,20.0,Male,HIV/AIDS,2023-03-11,,95.0,10.3,Pediatric,Discharged
+MRN0238,71.0,F,Sepsis,2023-02-02,,68.0,,Pediatric,Deceased
+MRN0239,52.0,F,Tuberculosis,2023-12-05,3.5,116.0,10.2,Surgical,Discharged
+MRN0240,33.0,,Pneumonia,2023-03-14,5.7,136.0,11.3,ICU,Discharged
+MRN0241,40.0,Male,Anemia,2024-06-10,0.4,149.0,16.9,Pediatric,LAMA
+MRN0242,39.0,Female,Pneumonia,2023-09-01,1.6,116.0,7.9,Pediatric,Discharged
+MRN0243,82.0,Female,Hypertension,2023-10-13,8.2,,6.9,ICU,Discharged
+MRN0244,1.0,Male,Acute Kidney Injury,2024-11-16,3.1,148.0,,Maternity,Discharged
+MRN0245,11.0,Male,Acute Kidney Injury,2024-05-12,4.0,88.0,9.8,Pediatric,Discharged
+MRN0246,57.0,Female,Pneumonia,2023-08-08,2.8,117.0,10.7,Medical,Discharged
+MRN0247,89.0,Female,Malaria,2024-07-06,0.2,129.0,9.5,Surgical,Deceased
+MRN0248,50.0,Female,Heart Failure,2023-05-16,,134.0,10.9,Pediatric,Discharged
+MRN0249,23.0,Female,HIV/AIDS,2024-08-07,2.9,115.0,15.5,Pediatric,Referred
+MRN0250,31.0,Male,Sepsis,2024-08-13,1.2,126.0,13.5,Maternity,LAMA
+MRN0251,42.0,Male,Acute Kidney Injury,2024-04-29,0.3,75.0,13.7,Medical,Discharged
+MRN0252,7.0,Male,Pneumonia,2023-09-06,,112.0,8.0,Surgical,Discharged
+MRN0253,16.0,,Pneumonia,2024-04-29,19.9,134.0,8.6,Pediatric,Discharged
+MRN0254,60.0,Male,Heart Failure,2024-02-21,7.9,105.0,4.4,Surgical,LAMA
+MRN0255,2.0,Male,Heart Failure,2023-07-14,9.6,126.0,9.5,ICU,Deceased
+MRN0256,1.0,Male,Type 2 Diabetes,2023-04-07,1.4,134.0,13.9,Pediatric,Discharged
+MRN0257,48.0,M,Type 2 Diabetes,2023-04-10,16.2,118.0,12.8,Pediatric,Referred
+MRN0258,12.0,,Malaria,2024-11-05,1.1,128.0,10.9,ICU,Discharged
+MRN0259,69.0,M,Malaria,2024-03-17,15.1,106.0,11.4,Maternity,LAMA
+MRN0260,37.0,Female,Hypertension,2023-12-29,26.3,121.0,9.8,Pediatric,Discharged
+MRN0261,32.0,Female,Malaria,2024-03-09,6.2,137.0,12.0,Surgical,Discharged
+MRN0262,9.0,Male,Tuberculosis,2024-02-25,19.9,128.0,,Medical,Deceased
+MRN0263,19.0,,Heart Failure,2024-04-23,4.2,113.0,7.5,Surgical,Discharged
+MRN0264,48.0,Female,Sepsis,2023-02-25,1.5,,12.2,Maternity,Discharged
+MRN0265,80.0,Female,Tuberculosis,2024-11-20,2.9,139.0,13.8,Medical,Discharged
+MRN0266,3.0,Female,HIV/AIDS,2024-10-31,4.5,84.0,10.5,Surgical,Discharged
+MRN0267,20.0,Female,Pneumonia,2024-10-23,0.4,148.0,13.3,Surgical,Discharged
+MRN0268,24.0,Female,Malaria,2023-04-11,,118.0,18.5,ICU,LAMA
+MRN0269,54.0,,Pneumonia,2023-03-04,19.9,134.0,11.2,Maternity,Discharged
+MRN0270,,F,Acute Kidney Injury,2024-02-17,1.1,149.0,12.5,ICU,Discharged
+MRN0271,24.0,Female,Hypertension,2023-12-14,7.9,98.0,9.7,Medical,Referred
+MRN0272,75.0,Female,Acute Kidney Injury,2023-04-22,11.9,111.0,12.0,ICU,Discharged
+MRN0273,72.0,Male,Hypertension,2023-09-12,14.4,119.0,12.7,Maternity,Discharged
+MRN0274,36.0,Female,Type 2 Diabetes,2023-07-16,16.1,,12.0,Pediatric,Referred
+MRN0275,38.0,Male,Pneumonia,2023-07-14,3.7,160.0,9.0,Pediatric,Deceased
+MRN0276,84.0,Female,Hypertension,2024-07-03,18.9,108.0,12.0,Medical,Discharged
+MRN0277,89.0,,Anemia,2024-04-04,7.1,114.0,15.2,Pediatric,Referred
+MRN0278,25.0,Female,Tuberculosis,2023-05-24,0.9,129.0,12.6,ICU,Discharged
+MRN0279,18.0,Female,Hypertension,2024-03-08,3.2,101.0,13.9,Medical,LAMA
+MRN0280,82.0,Male,Hypertension,2023-07-07,6.3,117.0,10.9,Maternity,Discharged
+MRN0281,66.0,Male,Tuberculosis,2023-10-13,1.4,131.0,13.4,Medical,Referred
+MRN0282,54.0,Female,Pneumonia,2024-04-18,5.1,118.0,12.2,Medical,Discharged
+MRN0283,35.0,Male,Pneumonia,2023-09-13,5.5,123.0,,Surgical,LAMA
+MRN0284,80.0,Male,Tuberculosis,2023-03-19,0.9,20.0,12.3,Surgical,Referred
+MRN0285,61.0,Female,Acute Kidney Injury,2024-03-29,4.2,95.0,9.0,Medical,Referred
+MRN0286,41.0,M,Anemia,2024-07-17,7.4,131.0,9.9,Pediatric,Discharged
+MRN0287,,Female,Sepsis,2023-04-11,3.5,160.0,12.0,Surgical,Discharged
+MRN0288,68.0,Male,HIV/AIDS,2023-02-21,0.1,125.0,12.2,Maternity,Discharged
+MRN0289,33.0,Female,Anemia,2024-10-29,0.0,130.0,8.5,ICU,Referred
+MRN0290,,Female,Pneumonia,2024-07-07,2.2,139.0,,Surgical,Discharged
+MRN0291,21.0,Female,Sepsis,2023-01-16,13.0,,12.9,Medical,LAMA
+MRN0292,48.0,Female,Type 2 Diabetes,2023-04-06,1.3,,9.7,Pediatric,Deceased
+MRN0293,20.0,Male,Malaria,2023-08-31,5.0,129.0,7.7,ICU,Discharged
+MRN0294,8.0,Female,Hypertension,2023-06-20,1.3,158.0,11.1,Surgical,Deceased
+MRN0295,7.0,Female,Tuberculosis,2024-02-21,1.9,110.0,10.4,Pediatric,Discharged
+MRN0296,67.0,F,Tuberculosis,2024-05-12,9.4,161.0,11.8,Pediatric,Discharged
+MRN0297,17.0,Female,Hypertension,2024-05-07,6.5,141.0,10.6,Pediatric,Discharged
+MRN0298,33.0,Female,Malaria,2023-08-07,,136.0,6.5,Medical,Discharged
+MRN0299,48.0,Female,HIV/AIDS,2024-02-15,2.8,130.0,10.5,Maternity,Referred
+MRN0300,76.0,Female,Malaria,2023-03-02,0.1,120.0,10.7,Pediatric,Discharged
+MRN0301,59.0,M,Sepsis,2023-06-18,3.3,149.0,13.1,ICU,Discharged
+MRN0302,86.0,Female,Malaria,2024-01-24,5.4,128.0,9.8,Surgical,Referred
+MRN0303,22.0,Female,Sepsis,2023-01-03,0.6,86.0,15.7,ICU,Referred
+MRN0304,30.0,Female,Malaria,2024-02-04,,103.0,6.7,Medical,Discharged
+MRN0305,38.0,Female,HIV/AIDS,2023-09-29,2.5,121.0,14.8,Medical,Deceased
+MRN0306,51.0,Female,HIV/AIDS,2024-04-10,12.6,131.0,10.9,ICU,Discharged
+MRN0307,54.0,F,Pneumonia,2023-10-20,25.0,124.0,13.6,Maternity,Discharged
+MRN0308,8.0,Female,Hypertension,2024-03-09,0.2,149.0,11.7,Medical,Discharged
+MRN0309,27.0,Female,HIV/AIDS,2024-12-14,7.2,86.0,14.3,Medical,Discharged
+MRN0310,27.0,,Sepsis,2024-07-23,2.3,128.0,10.5,ICU,Deceased
+MRN0311,21.0,Male,HIV/AIDS,2024-11-08,2.5,,8.8,Medical,Discharged
+MRN0312,30.0,Male,Pneumonia,2024-05-13,7.0,140.0,0.5,Maternity,Referred
+MRN0313,28.0,Female,Tuberculosis,2023-06-08,12.5,123.0,11.2,Maternity,Discharged
+MRN0314,64.0,,Sepsis,2023-07-14,15.1,133.0,12.1,Maternity,Discharged
+MRN0315,,Male,Pneumonia,2023-10-31,4.3,108.0,14.6,Surgical,LAMA
+MRN0316,61.0,Male,Acute Kidney Injury,2023-08-11,2.2,151.0,8.9,Maternity,Referred
+MRN0317,48.0,Male,Acute Kidney Injury,2023-03-01,7.7,146.0,13.0,Maternity,Discharged
+MRN0318,19.0,Male,Type 2 Diabetes,2024-08-16,1.4,137.0,10.0,Surgical,Discharged
+MRN0319,4.0,Male,Malaria,2024-07-09,4.2,122.0,11.2,Pediatric,Discharged
+MRN0320,35.0,Female,Hypertension,2023-03-04,2.2,137.0,11.7,Medical,Discharged
+MRN0321,64.0,Female,Heart Failure,2023-11-18,5.3,111.0,7.7,Maternity,Referred
+MRN0322,49.0,Male,Anemia,2023-02-28,1.4,142.0,9.6,Medical,Referred
+MRN0323,17.0,Female,Pneumonia,2023-02-21,1.1,158.0,14.9,ICU,Discharged
+MRN0324,44.0,Male,Tuberculosis,2024-08-21,12.5,146.0,13.7,Medical,LAMA
+MRN0325,30.0,Male,Anemia,2024-05-03,0.5,110.0,11.3,Surgical,Discharged
+MRN0326,46.0,Female,Tuberculosis,2024-05-29,3.5,132.0,12.1,Medical,Discharged
+MRN0327,6.0,Female,Anemia,2024-06-27,1.2,99.0,10.8,Medical,Discharged
+MRN0328,,Male,Pneumonia,2023-06-11,0.2,136.0,14.9,Medical,Discharged
+MRN0329,24.0,Female,Heart Failure,2023-02-28,0.2,134.0,11.0,Pediatric,Discharged
+MRN0330,46.0,Male,Anemia,2024-06-04,1.0,88.0,12.1,Pediatric,Discharged
+MRN0331,53.0,F,Pneumonia,2023-03-24,10.1,102.0,14.4,ICU,Discharged
+MRN0332,60.0,Female,HIV/AIDS,2023-07-10,1.7,119.0,9.6,Surgical,Discharged
+MRN0333,63.0,Female,Heart Failure,2023-03-12,15.0,119.0,15.4,Medical,Deceased
+MRN0334,85.0,Male,Sepsis,2024-09-01,4.4,101.0,7.7,Medical,Discharged
+MRN0335,32.0,F,Tuberculosis,2023-03-11,2.9,133.0,15.6,Medical,Discharged
+MRN0336,87.0,Male,Acute Kidney Injury,2024-11-22,4.3,130.0,10.6,Medical,Referred
+MRN0337,33.0,Male,Malaria,2023-08-29,3.6,121.0,10.9,Pediatric,LAMA
+MRN0338,67.0,Female,Acute Kidney Injury,2024-02-18,7.1,110.0,,ICU,LAMA
+MRN0339,18.0,Male,Heart Failure,2023-05-03,1.7,146.0,10.4,Maternity,Discharged
+MRN0340,25.0,,Sepsis,2024-08-06,2.2,158.0,8.9,Surgical,Discharged
+MRN0341,54.0,M,Tuberculosis,2023-09-10,11.2,115.0,10.0,Medical,Discharged
+MRN0342,58.0,Male,Sepsis,2024-08-15,14.6,113.0,11.2,ICU,Discharged
+MRN0343,67.0,Female,Anemia,2024-08-31,11.2,135.0,13.9,Maternity,LAMA
+MRN0344,46.0,,Tuberculosis,2023-02-10,2.7,118.0,12.0,ICU,Discharged
+MRN0345,24.0,F,Anemia,2024-09-26,7.6,122.0,,Pediatric,Discharged
+MRN0346,32.0,Female,Pneumonia,2023-03-25,3.2,140.0,8.8,Maternity,Discharged
+MRN0347,47.0,F,Heart Failure,2024-03-05,3.4,87.0,,ICU,Discharged
+MRN0348,86.0,,Pneumonia,2024-11-04,1.1,151.0,16.0,Pediatric,Referred
+MRN0349,23.0,Female,Type 2 Diabetes,2024-08-20,4.5,126.0,9.7,ICU,Discharged
+MRN0350,66.0,Male,Sepsis,2024-08-01,1.0,117.0,15.6,ICU,Discharged
+MRN0351,27.0,Female,Anemia,2024-06-19,2.0,123.0,10.9,Maternity,Discharged
+MRN0352,2.0,M,HIV/AIDS,2023-11-20,9.7,124.0,11.5,Pediatric,Discharged
+MRN0353,17.0,Male,Pneumonia,2023-09-25,1.2,90.0,14.2,Medical,Discharged
+MRN0354,33.0,M,Type 2 Diabetes,2023-07-29,0.4,155.0,14.7,Surgical,Discharged
+MRN0355,9.0,Male,Hypertension,2024-11-16,0.4,126.0,11.2,Maternity,Discharged
+MRN0356,43.0,Male,Acute Kidney Injury,2023-11-18,14.1,134.0,10.5,Pediatric,Referred
+MRN0357,48.0,Female,Tuberculosis,2023-09-02,3.5,144.0,,ICU,LAMA
+MRN0358,39.0,Male,Type 2 Diabetes,2023-09-29,2.6,105.0,,Pediatric,LAMA
+MRN0359,42.0,,Heart Failure,2024-02-10,8.3,134.0,,Surgical,LAMA
+MRN0360,26.0,M,Pneumonia,2023-05-15,9.0,120.0,11.5,Surgical,Discharged
+MRN0361,50.0,M,Heart Failure,2024-11-18,2.0,142.0,13.0,Medical,Discharged
+MRN0362,25.0,Female,Acute Kidney Injury,2024-10-22,5.9,82.0,15.6,Medical,Discharged
+MRN0363,24.0,Male,HIV/AIDS,2023-11-04,7.4,123.0,12.5,Surgical,Deceased
+MRN0364,13.0,Female,Sepsis,2024-04-13,5.3,,12.3,Maternity,LAMA
+MRN0365,60.0,Female,Sepsis,2023-11-20,0.8,134.0,7.7,Maternity,Deceased
+MRN0366,7.0,Female,Heart Failure,2023-03-16,10.4,134.0,4.9,ICU,Discharged
+MRN0367,57.0,Male,Anemia,2023-01-10,3.9,111.0,,Medical,LAMA
+MRN0368,36.0,Female,HIV/AIDS,2024-04-14,1.7,111.0,11.3,ICU,Discharged
+MRN0369,45.0,Female,Sepsis,2024-09-28,2.8,123.0,,Medical,Discharged
+MRN0370,20.0,,HIV/AIDS,2024-07-30,,107.0,,Surgical,Discharged
+MRN0371,65.0,F,Type 2 Diabetes,2023-04-13,0.7,142.0,11.3,Maternity,Discharged
+MRN0372,8.0,Female,HIV/AIDS,2023-03-17,7.3,118.0,14.3,Maternity,Discharged
+MRN0373,16.0,Female,Malaria,2024-07-04,0.0,67.0,11.7,Surgical,Discharged
+MRN0374,14.0,Female,Acute Kidney Injury,2023-08-07,2.7,118.0,9.6,ICU,Discharged
+MRN0375,76.0,Male,Sepsis,2024-06-02,3.7,104.0,14.0,ICU,Discharged
+MRN0376,87.0,F,HIV/AIDS,2023-09-29,0.3,92.0,11.0,Pediatric,Deceased
+MRN0377,15.0,F,Heart Failure,2023-05-16,18.1,100.0,,Medical,Referred
+MRN0378,66.0,Female,Hypertension,2023-12-24,1.3,127.0,10.3,ICU,Discharged
+MRN0379,,Female,Malaria,2023-03-12,1.8,152.0,9.9,Surgical,Deceased
+MRN0380,87.0,Male,Malaria,2023-09-08,1.8,131.0,11.7,ICU,LAMA
+MRN0381,63.0,Female,Anemia,2024-01-14,1.3,113.0,11.5,Maternity,Discharged
+MRN0382,,Male,HIV/AIDS,2023-10-19,0.0,134.0,12.7,Medical,Discharged
+MRN0383,51.0,F,Anemia,2023-06-11,6.5,116.0,10.8,Pediatric,Discharged
+MRN0384,,Male,Anemia,2024-03-24,200.0,111.0,6.9,Medical,Discharged
+MRN0385,58.0,Male,Hypertension,2024-07-10,1.3,102.0,10.4,Maternity,Referred
+MRN0386,63.0,,Type 2 Diabetes,2024-12-21,5.4,90.0,,Maternity,Deceased
+MRN0387,62.0,Female,HIV/AIDS,2023-11-06,6.8,117.0,10.8,Maternity,Discharged
+MRN0388,22.0,Male,Pneumonia,2024-09-18,9.4,128.0,10.9,Maternity,Deceased
+MRN0389,58.0,Male,Sepsis,2024-10-31,2.7,123.0,14.0,Surgical,Deceased
+MRN0390,58.0,Male,Anemia,2024-06-25,1.8,117.0,9.7,Pediatric,LAMA
+MRN0391,86.0,Female,Acute Kidney Injury,2023-01-09,2.0,106.0,7.6,Maternity,Discharged
+MRN0392,49.0,Male,Tuberculosis,2024-11-14,6.2,137.0,11.1,Maternity,LAMA
+MRN0393,52.0,Female,Acute Kidney Injury,2024-07-21,8.5,99.0,10.3,ICU,Discharged
+MRN0394,42.0,,Hypertension,2023-11-03,1.0,141.0,9.1,Pediatric,Discharged
+MRN0395,70.0,Male,Hypertension,2024-11-10,2.3,105.0,11.1,Medical,Discharged
+MRN0396,15.0,F,Heart Failure,2023-04-17,11.6,110.0,12.7,Pediatric,Discharged
+MRN0397,54.0,,Type 2 Diabetes,2023-05-18,8.2,96.0,,Pediatric,Referred
+MRN0398,60.0,Male,Sepsis,2023-09-28,21.0,115.0,12.3,Pediatric,Discharged
+MRN0399,8.0,F,Anemia,2023-04-29,7.0,,16.0,Maternity,Discharged
+MRN0400,53.0,Female,Acute Kidney Injury,2023-04-20,2.5,135.0,10.6,Maternity,Discharged
+MRN0401,60.0,F,Tuberculosis,2024-07-20,4.5,145.0,12.2,Surgical,Referred
+MRN0402,5.0,Female,Hypertension,2023-06-09,5.4,,10.2,Medical,Discharged
+MRN0403,68.0,Female,Hypertension,2023-10-06,0.4,103.0,9.4,ICU,Deceased
+MRN0404,6.0,Female,Type 2 Diabetes,2023-10-16,3.9,118.0,10.0,Pediatric,Discharged
+MRN0405,47.0,F,Tuberculosis,2024-09-11,6.2,109.0,10.3,Medical,Discharged
+MRN0406,55.0,Female,Tuberculosis,2023-08-04,0.9,152.0,,Medical,Discharged
+MRN0407,40.0,Female,Type 2 Diabetes,2023-12-18,7.6,101.0,17.4,Surgical,Discharged
+MRN0408,52.0,F,Hypertension,2023-07-28,4.4,143.0,9.7,ICU,Discharged
+MRN0409,16.0,Male,Sepsis,2024-12-04,15.2,143.0,10.5,Pediatric,Discharged
+MRN0410,13.0,Male,HIV/AIDS,2024-10-11,0.2,162.0,11.3,ICU,LAMA
+MRN0411,30.0,Male,HIV/AIDS,2023-09-28,1.5,117.0,12.5,Surgical,Discharged
+MRN0412,19.0,Male,Type 2 Diabetes,2024-06-01,4.6,139.0,12.2,Maternity,Discharged
+MRN0413,17.0,Male,Tuberculosis,2024-05-15,1.8,171.0,14.7,Medical,Discharged
+MRN0414,63.0,,Anemia,2023-09-15,6.3,113.0,5.4,Pediatric,Deceased
+MRN0415,19.0,Male,Type 2 Diabetes,2023-02-22,7.1,94.0,5.5,Maternity,Discharged
+MRN0416,58.0,Female,Sepsis,2023-04-05,0.5,87.0,10.3,Surgical,Discharged
+MRN0417,55.0,Male,Type 2 Diabetes,2024-10-11,3.6,139.0,14.2,ICU,Referred
+MRN0418,62.0,F,Malaria,2024-03-09,,87.0,7.6,Medical,Discharged
+MRN0419,23.0,,Acute Kidney Injury,2023-10-11,2.3,118.0,4.0,Pediatric,Discharged
+MRN0420,9.0,Female,Tuberculosis,2023-02-15,13.5,134.0,12.9,Maternity,Discharged
+MRN0421,12.0,F,Heart Failure,2023-01-04,8.8,129.0,,Maternity,Discharged
+MRN0422,1.0,Male,Heart Failure,2023-12-08,6.0,134.0,,Medical,Discharged
+MRN0423,58.0,M,Tuberculosis,2023-05-14,6.3,,9.0,ICU,Discharged
+MRN0424,1.0,Male,Sepsis,2024-10-14,3.1,151.0,9.1,Surgical,Discharged
+MRN0425,34.0,F,Malaria,2023-09-26,12.7,106.0,,ICU,Discharged
+MRN0426,48.0,Male,Malaria,2023-06-15,5.9,111.0,9.9,ICU,Discharged
+MRN0427,89.0,Female,Hypertension,2024-03-28,6.5,110.0,12.7,ICU,LAMA
+MRN0428,1.0,Female,Acute Kidney Injury,2024-07-18,9.9,142.0,4.4,Medical,Deceased
+MRN0429,16.0,Male,HIV/AIDS,2024-12-23,1.6,143.0,,Medical,Referred
+MRN0430,61.0,Male,Pneumonia,2024-03-13,8.2,134.0,8.7,Surgical,Discharged
+MRN0431,64.0,Male,Sepsis,2024-07-28,1.1,149.0,10.9,ICU,Discharged
+MRN0432,63.0,Male,Pneumonia,2023-01-10,2.1,,10.2,Medical,Discharged
+MRN0433,69.0,Female,Pneumonia,2023-04-25,2.0,158.0,13.5,Surgical,Discharged
+MRN0434,22.0,Male,Tuberculosis,2023-03-19,19.2,155.0,6.9,Surgical,LAMA
+MRN0435,67.0,Male,Heart Failure,2024-12-08,9.7,140.0,11.6,ICU,Discharged
+MRN0436,76.0,Male,Heart Failure,2023-06-02,6.0,,12.9,Pediatric,Discharged
+MRN0437,26.0,M,HIV/AIDS,2024-07-12,6.5,92.0,16.1,ICU,Discharged
+MRN0438,16.0,Male,Tuberculosis,2023-02-06,4.1,115.0,10.3,Pediatric,Discharged
+MRN0439,51.0,Male,Pneumonia,2024-01-14,14.7,110.0,12.3,Surgical,Discharged
+MRN0440,86.0,Male,Anemia,2024-08-19,3.4,139.0,7.0,Medical,Discharged
+MRN0441,,Female,Heart Failure,2024-07-19,2.4,104.0,5.5,Maternity,Discharged
+MRN0442,29.0,F,Sepsis,2023-06-01,0.9,140.0,13.6,Surgical,Deceased
+MRN0443,78.0,Female,Sepsis,2024-03-16,7.7,152.0,11.5,Medical,Discharged
+MRN0444,69.0,Male,Hypertension,2023-05-11,6.6,139.0,,Surgical,LAMA
+MRN0445,47.0,Female,Type 2 Diabetes,2023-02-12,2.4,131.0,8.1,ICU,Deceased
+MRN0446,62.0,M,Anemia,2023-11-12,0.1,105.0,12.8,Pediatric,Discharged
+MRN0447,69.0,Male,Heart Failure,2024-01-09,9.1,108.0,16.2,Surgical,Referred
+MRN0448,76.0,M,Malaria,2023-02-10,0.1,150.0,12.5,Medical,Discharged
+MRN0449,16.0,,Heart Failure,2024-01-02,6.1,141.0,12.2,ICU,LAMA
+MRN0450,48.0,Male,Hypertension,2023-08-04,17.6,124.0,11.5,Maternity,Discharged
+MRN0451,85.0,M,Sepsis,2024-11-29,2.9,117.0,7.6,ICU,Discharged
+MRN0452,39.0,Female,Pneumonia,2023-09-13,1.3,,14.9,Pediatric,Discharged
+MRN0453,33.0,Female,Malaria,2024-11-13,6.1,104.0,10.0,ICU,Discharged
+MRN0454,23.0,Male,Tuberculosis,2023-04-16,8.5,163.0,,Maternity,LAMA
+MRN0455,10.0,Male,Acute Kidney Injury,2023-12-29,4.0,99.0,7.6,Medical,Discharged
+MRN0456,69.0,F,Pneumonia,2024-07-27,17.1,129.0,8.6,Surgical,Referred
+MRN0457,34.0,,Acute Kidney Injury,2024-02-21,0.3,145.0,15.1,Pediatric,Discharged
+MRN0458,52.0,Female,Anemia,2024-09-27,3.5,,10.6,Maternity,LAMA
+MRN0459,10.0,Female,Type 2 Diabetes,2023-06-08,6.3,129.0,15.1,Pediatric,Discharged
+MRN0460,19.0,Female,Malaria,2023-08-31,9.9,144.0,11.3,ICU,Discharged
+MRN0461,,Female,HIV/AIDS,2023-06-16,1.0,125.0,6.9,Pediatric,Discharged
+MRN0462,,Female,Malaria,2023-07-01,8.0,182.0,13.7,Maternity,Referred
+MRN0463,69.0,Male,Heart Failure,2024-02-27,4.0,92.0,10.0,Surgical,Discharged
+MRN0464,4.0,M,Sepsis,2023-01-26,2.5,146.0,13.2,Surgical,Discharged
+MRN0465,16.0,Male,Heart Failure,2023-07-03,0.7,122.0,11.6,Pediatric,Discharged
+MRN0466,24.0,M,Heart Failure,2023-12-07,10.0,140.0,7.6,Medical,Referred
+MRN0467,80.0,Male,Anemia,2024-02-26,0.9,134.0,11.9,Pediatric,Discharged
+MRN0468,2.0,Male,Pneumonia,2024-11-16,1.9,110.0,17.0,ICU,Discharged
+MRN0469,32.0,Male,HIV/AIDS,2023-09-12,1.7,130.0,12.7,Surgical,Discharged
+MRN0470,84.0,Female,HIV/AIDS,2023-10-01,,88.0,,Surgical,Deceased
+MRN0471,24.0,,Heart Failure,2023-06-13,5.6,137.0,,Surgical,LAMA
+MRN0472,12.0,Male,Acute Kidney Injury,2024-12-19,8.0,131.0,12.0,Medical,Discharged
+MRN0473,50.0,F,Anemia,2023-04-21,1.4,138.0,,Medical,Discharged
+MRN0474,35.0,Female,Heart Failure,2024-01-27,4.9,146.0,8.8,Maternity,Discharged
+MRN0475,,M,Type 2 Diabetes,2023-02-09,4.2,132.0,12.1,Pediatric,Discharged
+MRN0476,33.0,Male,Sepsis,2024-04-26,8.9,128.0,14.1,Pediatric,Discharged
+MRN0477,61.0,M,Pneumonia,2023-08-16,11.8,107.0,9.4,ICU,Referred
+MRN0478,51.0,M,Tuberculosis,2023-07-24,0.1,111.0,15.1,Surgical,Discharged
+MRN0479,43.0,Male,Type 2 Diabetes,2024-04-16,5.6,149.0,11.3,Medical,LAMA
+MRN0480,12.0,Male,Acute Kidney Injury,2023-12-25,0.3,154.0,9.3,ICU,Discharged
+MRN0481,67.0,F,Malaria,2023-11-09,4.0,120.0,14.0,ICU,Referred
+MRN0482,65.0,,Malaria,2023-08-22,,126.0,10.8,Medical,Discharged
+MRN0483,33.0,Male,Type 2 Diabetes,2023-08-17,1.8,107.0,13.4,Pediatric,Discharged
+MRN0484,40.0,Female,Heart Failure,2023-01-25,2.2,148.0,10.8,Surgical,Discharged
+MRN0485,74.0,F,Tuberculosis,2024-11-06,4.9,138.0,11.4,Pediatric,Discharged
+MRN0486,43.0,F,Hypertension,2023-07-17,2.0,164.0,12.7,ICU,Discharged
+MRN0487,44.0,,Hypertension,2024-02-13,6.6,107.0,12.2,Surgical,Referred
+MRN0488,29.0,M,Acute Kidney Injury,2023-12-03,2.6,117.0,,Maternity,LAMA
+MRN0489,13.0,Female,Heart Failure,2023-10-13,0.4,130.0,8.7,ICU,Discharged
+MRN0490,12.0,Male,HIV/AIDS,2023-03-13,,138.0,13.8,Pediatric,Discharged
+MRN0491,46.0,Male,HIV/AIDS,2023-10-13,,121.0,11.2,Pediatric,Discharged
+MRN0492,2.0,Female,Pneumonia,2023-12-26,2.8,108.0,10.2,Pediatric,Discharged
+MRN0493,35.0,Female,Tuberculosis,2024-10-18,5.8,143.0,8.1,Medical,Discharged
+MRN0494,87.0,Male,Tuberculosis,2024-06-05,2.0,,8.8,ICU,Referred
+MRN0495,81.0,F,Malaria,2024-02-14,0.3,107.0,6.4,Surgical,LAMA
+MRN0496,8.0,Female,Anemia,2024-11-26,2.3,,11.2,Pediatric,LAMA
+MRN0497,26.0,Female,Acute Kidney Injury,2024-07-03,14.5,148.0,10.0,Pediatric,Discharged
+MRN0498,74.0,Female,Hypertension,2023-12-06,5.1,128.0,9.1,Medical,Deceased
+MRN0499,34.0,Female,Acute Kidney Injury,2023-01-29,5.6,127.0,11.3,Surgical,Referred
+MRN0500,7.0,Male,HIV/AIDS,2023-04-29,5.0,136.0,12.4,ICU,Discharged
+MRN0501,68.0,Male,HIV/AIDS,2023-09-25,1.1,108.0,16.7,Maternity,Discharged
+MRN0502,58.0,Male,Type 2 Diabetes,2023-07-02,2.7,126.0,7.7,Medical,Deceased
+MRN0503,75.0,Male,Pneumonia,2024-08-17,7.0,82.0,14.4,ICU,Discharged
+MRN0504,29.0,Female,Tuberculosis,2023-09-29,0.5,143.0,13.9,Maternity,Discharged
+MRN0505,36.0,Female,Sepsis,2023-02-09,1.6,94.0,9.6,Pediatric,Discharged
+MRN0506,,Male,Acute Kidney Injury,2023-04-22,1.6,155.0,12.0,Pediatric,Discharged
+MRN0507,21.0,M,HIV/AIDS,2024-09-02,2.8,118.0,10.4,Surgical,Discharged
+MRN0508,36.0,Male,Anemia,2024-03-20,,121.0,12.0,Maternity,LAMA
+MRN0509,10.0,F,Malaria,2023-12-20,0.3,112.0,15.3,Pediatric,Referred
+MRN0510,73.0,,Hypertension,2023-11-18,3.7,119.0,13.0,Pediatric,Discharged
+MRN0511,24.0,Male,Pneumonia,2024-03-22,1.0,153.0,12.8,Surgical,Discharged
+MRN0512,64.0,Female,Anemia,2024-09-12,17.6,75.0,,ICU,Discharged
+MRN0513,49.0,Male,Pneumonia,2024-06-07,0.6,151.0,7.8,Pediatric,Discharged
+MRN0514,36.0,Female,Type 2 Diabetes,2023-04-29,2.6,132.0,11.0,Medical,Discharged
+MRN0515,82.0,Female,Sepsis,2024-01-30,6.7,101.0,14.5,Medical,Discharged
+MRN0516,24.0,Male,HIV/AIDS,2024-08-13,6.1,103.0,7.7,ICU,Discharged
+MRN0517,23.0,Female,Malaria,2023-07-14,2.7,159.0,8.9,Maternity,Discharged
+MRN0518,62.0,Male,Anemia,2023-09-18,2.1,106.0,11.8,Surgical,Discharged
+MRN0519,37.0,Male,Pneumonia,2023-02-15,2.5,102.0,9.0,Medical,Discharged
+MRN0520,12.0,Female,Tuberculosis,2024-12-26,1.5,148.0,9.5,Medical,Discharged
+MRN0521,,Male,Type 2 Diabetes,2024-03-22,1.1,132.0,10.4,ICU,LAMA
+MRN0522,13.0,Female,Tuberculosis,2023-01-02,3.3,106.0,8.1,Maternity,Discharged
+MRN0523,23.0,Female,Malaria,2024-06-16,1.6,129.0,9.1,Maternity,Referred
+MRN0524,89.0,,Anemia,2024-07-05,1.7,104.0,13.3,ICU,Discharged
+MRN0525,30.0,Male,Type 2 Diabetes,2024-12-04,5.3,147.0,,Medical,Discharged
+MRN0526,17.0,Female,Anemia,2024-11-17,17.3,146.0,7.5,Surgical,LAMA
+MRN0527,62.0,Female,HIV/AIDS,2023-07-21,4.6,136.0,9.9,Medical,Discharged
+MRN0528,84.0,Female,Heart Failure,2024-01-08,0.4,132.0,13.3,Maternity,Discharged
+MRN0529,89.0,,Type 2 Diabetes,2024-03-17,0.4,160.0,11.0,Medical,Discharged
+MRN0530,86.0,Female,Tuberculosis,2023-03-13,15.1,125.0,10.3,Surgical,Discharged
+MRN0531,13.0,Female,Malaria,2024-11-11,120.0,101.0,11.6,Pediatric,Deceased
+MRN0532,59.0,Female,Sepsis,2023-12-05,0.5,134.0,7.1,Medical,Discharged
+MRN0533,19.0,,HIV/AIDS,2024-09-30,4.6,167.0,12.7,ICU,Discharged
+MRN0534,,F,Heart Failure,2023-11-18,4.9,105.0,12.5,Pediatric,Discharged
+MRN0535,12.0,Female,Sepsis,2024-11-10,5.2,118.0,10.5,ICU,Discharged
+MRN0536,61.0,Female,Hypertension,2023-05-08,1.6,133.0,14.0,ICU,Deceased
+MRN0537,19.0,Male,HIV/AIDS,2023-11-04,,124.0,8.7,ICU,Referred
+MRN0538,76.0,Male,Malaria,2024-06-03,16.8,,14.3,Medical,Discharged
+MRN0539,9.0,Female,Pneumonia,2023-11-13,1.4,147.0,11.9,Maternity,Discharged
+MRN0540,71.0,Male,Type 2 Diabetes,2024-11-13,5.6,171.0,10.7,Pediatric,Referred
+MRN0541,28.0,Female,Anemia,2024-02-23,6.1,129.0,11.5,Surgical,Discharged
+MRN0542,78.0,Male,Malaria,2023-12-01,4.7,107.0,11.2,Maternity,Discharged
+MRN0543,52.0,Male,Type 2 Diabetes,2024-02-17,1.9,94.0,0.5,Medical,Discharged
+MRN0544,83.0,M,Sepsis,2024-12-14,1.6,130.0,8.8,ICU,Discharged
+MRN0545,16.0,,Anemia,2023-10-30,4.6,147.0,9.6,Surgical,Referred
+MRN0546,69.0,Male,Acute Kidney Injury,2024-07-21,10.1,135.0,14.1,Pediatric,LAMA
+MRN0547,12.0,Female,Tuberculosis,2023-05-11,14.7,125.0,10.0,Maternity,Discharged
+MRN0548,25.0,F,Hypertension,2023-07-16,0.6,113.0,13.8,Maternity,Discharged
+MRN0549,52.0,Male,HIV/AIDS,2024-03-06,,103.0,15.7,Surgical,Discharged
+MRN0550,85.0,M,Malaria,2024-11-11,14.5,142.0,10.5,Medical,Discharged
+MRN0551,53.0,Male,Hypertension,2024-01-24,6.7,143.0,13.2,Pediatric,Discharged
+MRN0552,23.0,Male,Pneumonia,2024-11-24,10.7,94.0,8.6,Surgical,Deceased
+MRN0553,16.0,,Type 2 Diabetes,2023-06-28,1.1,,13.4,ICU,Discharged
+MRN0554,57.0,Male,Type 2 Diabetes,2024-09-22,4.4,136.0,12.0,Pediatric,Discharged
+MRN0555,,Female,Malaria,2024-08-05,6.0,153.0,12.7,Maternity,Discharged
+MRN0556,53.0,M,Heart Failure,2023-11-05,5.7,98.0,9.9,Surgical,Discharged
+MRN0557,42.0,Male,Heart Failure,2024-02-20,2.6,98.0,7.3,Maternity,Discharged
+MRN0558,58.0,Female,Acute Kidney Injury,2024-07-15,0.1,122.0,12.8,Maternity,Referred
+MRN0559,39.0,,Tuberculosis,2023-01-01,4.4,20.0,6.3,Maternity,Discharged
+MRN0560,14.0,Male,Anemia,2023-11-08,1.5,161.0,10.7,Medical,Referred
+MRN0561,5.0,F,Pneumonia,2023-10-21,3.0,139.0,13.9,Maternity,Discharged
+MRN0562,35.0,Female,Hypertension,2023-08-04,15.8,120.0,12.0,ICU,Discharged
+MRN0563,87.0,Female,Heart Failure,2024-03-16,2.5,104.0,16.4,ICU,Discharged
+MRN0564,75.0,Female,Acute Kidney Injury,2024-08-16,,150.0,14.1,Pediatric,Discharged
+MRN0565,18.0,Male,Acute Kidney Injury,2024-09-13,1.0,106.0,9.9,Maternity,Discharged
+MRN0566,76.0,,Malaria,2024-11-01,5.6,260.0,11.6,Maternity,Discharged
+MRN0567,9.0,,Pneumonia,2023-11-26,,119.0,11.4,Surgical,Referred
+MRN0568,74.0,Female,Sepsis,2024-04-21,0.5,157.0,7.5,Medical,Referred
+MRN0569,58.0,M,Anemia,2024-03-28,0.0,139.0,9.1,Pediatric,Discharged
+MRN0570,17.0,Female,Tuberculosis,2024-03-28,2.8,122.0,,Maternity,Discharged
+MRN0571,7.0,Female,HIV/AIDS,2024-11-22,0.5,115.0,6.4,Surgical,Discharged
+MRN0572,,Female,Malaria,2023-08-07,6.9,118.0,11.6,Medical,Discharged
+MRN0573,13.0,Female,Anemia,2024-06-07,12.3,,10.9,Pediatric,Discharged
+MRN0574,40.0,Female,HIV/AIDS,2024-04-29,2.8,127.0,7.3,Pediatric,Deceased
+MRN0575,42.0,M,HIV/AIDS,2023-06-23,1.5,113.0,,Maternity,Discharged
+MRN0576,9.0,Female,Pneumonia,2024-11-05,2.8,122.0,13.3,Pediatric,Discharged
+MRN0577,50.0,Male,Pneumonia,2023-03-28,6.4,250.0,12.1,Surgical,Discharged
+MRN0578,27.0,Male,Hypertension,2023-10-18,0.0,82.0,10.7,Pediatric,Discharged
+MRN0579,66.0,Female,Acute Kidney Injury,2024-06-11,4.5,134.0,13.0,ICU,Discharged
+MRN0580,5.0,Female,Anemia,2024-11-10,4.8,105.0,,Surgical,Discharged
+MRN0581,29.0,Female,Malaria,2024-10-10,5.1,102.0,12.3,Medical,Discharged
+MRN0582,37.0,Female,Type 2 Diabetes,2024-09-26,1.4,91.0,9.4,Medical,Discharged
+MRN0583,38.0,Female,Malaria,2023-12-10,6.3,,12.2,Maternity,Discharged
+MRN0584,83.0,Female,Hypertension,2023-04-06,0.5,98.0,14.5,Maternity,Referred
+MRN0585,8.0,Male,Tuberculosis,2023-08-29,1.1,111.0,10.0,ICU,Discharged
+MRN0586,65.0,Female,Acute Kidney Injury,2024-11-19,10.5,164.0,16.7,Medical,Discharged
+MRN0587,86.0,Female,Type 2 Diabetes,2023-11-14,6.7,114.0,10.2,Medical,Referred
+MRN0588,17.0,F,Heart Failure,2023-08-19,0.1,129.0,11.6,Medical,Discharged
+MRN0589,71.0,Female,Tuberculosis,2023-07-23,1.4,133.0,9.8,Medical,Discharged
+MRN0590,89.0,Male,Pneumonia,2023-05-31,1.2,128.0,12.1,Pediatric,Discharged
+MRN0591,45.0,Male,HIV/AIDS,2023-01-26,1.6,123.0,7.1,Surgical,Discharged
+MRN0592,4.0,Male,Heart Failure,2023-02-17,1.4,101.0,10.1,Surgical,Discharged
+MRN0593,36.0,Female,Malaria,2023-09-08,0.3,154.0,,ICU,Deceased
+MRN0594,70.0,Male,Malaria,2024-05-01,3.1,161.0,11.8,Pediatric,LAMA
+MRN0595,31.0,Female,Pneumonia,2024-09-17,6.6,91.0,14.0,Medical,Discharged
+MRN0596,19.0,Female,Hypertension,2023-03-16,4.7,105.0,13.1,Medical,Discharged
+MRN0597,61.0,Male,Anemia,2024-04-11,5.6,119.0,5.6,Maternity,Discharged
+MRN0598,54.0,Female,Heart Failure,2024-02-29,0.4,106.0,16.6,Maternity,Discharged
+MRN0599,,Male,Heart Failure,2024-10-06,15.1,135.0,12.2,ICU,Discharged
+MRN0600,74.0,Female,Sepsis,2024-08-12,9.1,110.0,9.6,Medical,Discharged
+MRN0601,19.0,Male,Tuberculosis,2023-07-19,,168.0,11.9,ICU,LAMA
+MRN0602,39.0,F,Acute Kidney Injury,2024-12-14,8.7,149.0,11.9,Pediatric,Discharged
+MRN0603,67.0,Male,Tuberculosis,2024-01-29,13.5,129.0,9.8,Surgical,Discharged
+MRN0604,45.0,,Anemia,2024-05-21,3.9,146.0,,Medical,Discharged
+MRN0605,13.0,Female,Malaria,2024-02-14,1.1,147.0,10.0,Pediatric,Deceased
+MRN0606,58.0,F,Malaria,2023-09-07,4.8,114.0,,Medical,Referred
+MRN0607,20.0,Female,Malaria,2023-06-01,6.8,,9.8,Maternity,Discharged
+MRN0608,72.0,Female,Sepsis,2024-11-02,6.7,127.0,7.9,ICU,Discharged
+MRN0609,61.0,M,Malaria,2024-12-05,3.7,142.0,11.9,Maternity,Deceased
+MRN0610,39.0,Female,Anemia,2023-01-06,0.4,,13.0,Surgical,Discharged
+MRN0611,1.0,Female,Pneumonia,2023-04-20,2.3,93.0,12.8,Maternity,Deceased
+MRN0612,3.0,Female,Acute Kidney Injury,2024-03-11,12.7,109.0,13.5,Medical,Discharged
+MRN0613,77.0,Female,Anemia,2023-08-13,4.4,124.0,12.3,Maternity,Discharged
+MRN0614,62.0,Male,Acute Kidney Injury,2023-06-30,3.9,123.0,10.2,Medical,Discharged
+MRN0615,,Female,Anemia,2024-12-13,1.6,164.0,13.6,Surgical,Referred
+MRN0616,25.0,Female,Malaria,2024-06-14,2.3,97.0,8.1,Maternity,Discharged
+MRN0617,56.0,Female,Pneumonia,2024-04-20,11.3,135.0,9.2,ICU,Deceased
+MRN0618,33.0,M,Heart Failure,2023-02-21,5.5,,9.1,ICU,Discharged
+MRN0619,38.0,Female,Tuberculosis,2024-07-24,7.7,170.0,14.2,ICU,Discharged
+MRN0620,6.0,,HIV/AIDS,2023-09-13,3.0,117.0,13.9,Maternity,Discharged
+MRN0621,58.0,Male,Pneumonia,2023-05-05,5.0,135.0,12.7,Maternity,Discharged
+MRN0622,44.0,Male,Heart Failure,2024-04-12,1.4,136.0,14.2,Maternity,Discharged
+MRN0623,45.0,Female,Hypertension,2023-05-17,6.1,129.0,9.3,Medical,Discharged
+MRN0624,32.0,Female,Anemia,2024-04-20,2.8,123.0,12.4,Surgical,Referred
+MRN0625,45.0,M,Hypertension,2024-11-14,2.9,134.0,11.2,ICU,Discharged
+MRN0626,61.0,Male,Heart Failure,2024-06-27,5.2,74.0,13.6,Medical,LAMA
+MRN0627,47.0,M,Pneumonia,2024-07-26,13.8,139.0,11.2,ICU,Discharged
+MRN0628,21.0,Female,Anemia,2024-09-01,0.3,,10.5,Medical,Deceased
+MRN0629,80.0,Female,HIV/AIDS,2023-11-21,8.7,121.0,12.9,Maternity,Discharged
+MRN0630,85.0,Female,Malaria,2024-03-29,,260.0,13.7,ICU,Discharged
+MRN0631,75.0,Male,Anemia,2024-09-19,2.9,112.0,9.8,Maternity,Discharged
+MRN0632,,Female,Anemia,2024-05-31,0.1,117.0,11.3,ICU,Discharged
+MRN0633,19.0,Female,Pneumonia,2024-03-12,1.8,165.0,8.9,Pediatric,Deceased
+MRN0634,,Male,Pneumonia,2024-07-15,3.5,108.0,5.3,Medical,Discharged
+MRN0635,57.0,Female,Heart Failure,2024-04-01,0.3,114.0,,Pediatric,Discharged
+MRN0636,18.0,Male,Type 2 Diabetes,2023-06-12,3.4,122.0,,Medical,Deceased
+MRN0637,47.0,Female,Anemia,2024-05-01,13.1,142.0,12.2,Surgical,Discharged
+MRN0638,49.0,Female,Tuberculosis,2024-04-05,0.6,129.0,6.6,ICU,Referred
+MRN0639,14.0,Female,Anemia,2023-09-23,7.2,99.0,10.6,Surgical,Discharged
+MRN0640,15.0,Female,Heart Failure,2023-09-11,2.6,114.0,6.0,Surgical,Deceased
+MRN0641,31.0,Male,Acute Kidney Injury,2024-10-14,5.3,113.0,14.9,Medical,Discharged
+MRN0642,1.0,Female,Hypertension,2023-10-11,1.5,123.0,8.8,Pediatric,Discharged
+MRN0643,54.0,Male,Malaria,2024-06-17,0.9,134.0,14.6,Maternity,Discharged
+MRN0644,3.0,Female,Type 2 Diabetes,2024-05-11,0.9,133.0,13.9,Medical,LAMA
+MRN0645,16.0,F,HIV/AIDS,2024-10-03,0.4,89.0,9.2,Maternity,Discharged
+MRN0646,87.0,Male,HIV/AIDS,2023-09-02,1.0,146.0,8.7,Surgical,Discharged
+MRN0647,57.0,Female,HIV/AIDS,2023-10-09,,130.0,12.4,Maternity,Discharged
+MRN0648,75.0,Female,Pneumonia,2024-03-26,10.7,153.0,,Pediatric,LAMA
+MRN0649,12.0,Female,HIV/AIDS,2023-03-21,8.4,134.0,11.8,Medical,Deceased
+MRN0650,74.0,Male,Malaria,2024-12-31,5.8,147.0,10.3,Pediatric,LAMA
+MRN0651,16.0,Male,Hypertension,2023-10-20,0.6,,7.0,Pediatric,Discharged
+MRN0652,72.0,F,HIV/AIDS,2023-08-29,1.7,152.0,5.9,Medical,Discharged
+MRN0653,76.0,Female,Anemia,2023-10-06,1.9,135.0,12.1,Pediatric,Discharged
+MRN0654,24.0,Male,Anemia,2023-12-10,1.4,123.0,10.1,ICU,Deceased
+MRN0655,28.0,Female,Pneumonia,2023-11-24,3.6,170.0,10.1,ICU,Discharged
+MRN0656,8.0,Female,Malaria,2024-07-07,3.8,143.0,13.2,ICU,Discharged
+MRN0657,36.0,Male,Hypertension,2023-03-24,2.2,136.0,14.4,Maternity,Referred
+MRN0658,8.0,Female,Type 2 Diabetes,2023-05-22,2.2,99.0,10.8,Pediatric,Discharged
+MRN0659,58.0,Female,Heart Failure,2023-06-04,8.8,99.0,10.6,Medical,Discharged
+MRN0660,,,Hypertension,2023-08-25,7.8,131.0,12.8,Medical,Discharged
+MRN0661,50.0,Male,Heart Failure,2024-01-28,1.8,128.0,8.1,Maternity,Discharged
+MRN0662,28.0,Male,Acute Kidney Injury,2024-12-11,12.3,113.0,12.1,Medical,Referred
+MRN0663,41.0,Male,Heart Failure,2023-06-06,15.3,128.0,12.9,ICU,Discharged
+MRN0664,64.0,Female,Tuberculosis,2024-12-24,2.0,157.0,13.2,Pediatric,Discharged
+MRN0665,27.0,Male,Anemia,2023-08-08,2.2,139.0,6.7,Medical,Discharged
+MRN0666,63.0,Female,Malaria,2023-03-07,3.5,102.0,9.6,Medical,Discharged
+MRN0667,17.0,M,Sepsis,2024-02-29,14.2,123.0,9.3,Surgical,Discharged
+MRN0668,73.0,Female,Pneumonia,2024-02-22,10.5,109.0,11.7,Surgical,Discharged
+MRN0669,33.0,Female,Tuberculosis,2023-12-05,0.5,117.0,12.7,Surgical,Discharged
+MRN0670,84.0,F,Heart Failure,2024-07-09,2.5,117.0,15.2,Pediatric,Discharged
+MRN0671,77.0,Female,HIV/AIDS,2024-04-22,4.0,115.0,10.3,ICU,Discharged
+MRN0672,29.0,Female,Malaria,2024-03-01,3.5,100.0,10.3,ICU,Discharged
+MRN0673,13.0,Male,Tuberculosis,2023-03-05,1.1,,14.4,ICU,Deceased
+MRN0674,46.0,,Pneumonia,2023-07-31,9.8,114.0,12.2,Pediatric,Referred
+MRN0675,35.0,Male,Anemia,2024-03-06,5.6,66.0,14.7,Pediatric,Referred
+MRN0676,6.0,Male,Malaria,2024-02-03,9.1,,12.2,Surgical,Discharged
+MRN0677,82.0,Male,Pneumonia,2024-08-21,9.8,147.0,8.6,Medical,Discharged
+MRN0678,69.0,Female,Acute Kidney Injury,2024-12-13,6.9,117.0,25.0,Maternity,Discharged
+MRN0679,47.0,Male,Acute Kidney Injury,2023-01-21,2.9,125.0,7.6,Maternity,Discharged
+MRN0680,25.0,Male,Pneumonia,2024-08-12,4.7,102.0,13.2,Medical,Discharged
+MRN0681,66.0,Male,Tuberculosis,2024-01-25,0.9,159.0,14.5,Surgical,Discharged
+MRN0682,10.0,Male,Malaria,2024-05-03,5.6,163.0,16.1,Medical,LAMA
+MRN0683,56.0,Female,Tuberculosis,2023-01-07,1.0,128.0,,Medical,Discharged
+MRN0684,30.0,Female,Type 2 Diabetes,2023-12-27,,260.0,14.4,Maternity,Discharged
+MRN0685,5.0,Female,Heart Failure,2023-11-02,1.3,129.0,10.0,Surgical,Referred
+MRN0686,33.0,Female,Type 2 Diabetes,2024-02-04,0.6,98.0,8.6,Pediatric,Discharged
+MRN0687,65.0,Female,Acute Kidney Injury,2024-03-05,0.9,117.0,13.6,Maternity,Deceased
+MRN0688,18.0,Male,Anemia,2024-07-05,0.0,128.0,,Pediatric,Referred
+MRN0689,49.0,Male,Hypertension,2024-07-13,6.3,116.0,11.8,Surgical,LAMA
+MRN0690,11.0,,Heart Failure,2024-09-09,6.6,121.0,12.5,Medical,Discharged
+MRN0691,85.0,Female,Acute Kidney Injury,2023-08-14,3.6,123.0,12.3,ICU,Referred
+MRN0692,26.0,Male,Tuberculosis,2024-05-14,0.9,123.0,14.7,ICU,Discharged
+MRN0693,63.0,Female,Tuberculosis,2023-08-13,0.4,126.0,14.7,Surgical,Discharged
+MRN0694,89.0,Male,Tuberculosis,2023-10-07,0.1,104.0,12.9,ICU,Discharged
+MRN0695,86.0,Female,Anemia,2024-03-22,0.9,111.0,13.6,Pediatric,Discharged
+MRN0696,59.0,Male,Type 2 Diabetes,2024-05-12,11.1,99.0,12.8,ICU,Discharged
+MRN0697,27.0,Male,Hypertension,2023-01-30,1.4,145.0,10.3,Surgical,Discharged
+MRN0698,49.0,Male,Tuberculosis,2024-02-03,2.2,83.0,13.4,Surgical,Deceased
+MRN0699,77.0,,Sepsis,2023-12-11,0.6,148.0,8.0,Pediatric,Referred
+MRN0700,33.0,Female,Heart Failure,2024-11-15,1.3,153.0,14.1,ICU,Referred
+MRN0701,1.0,Male,Malaria,2024-11-26,3.7,119.0,,ICU,Discharged
+MRN0702,21.0,Male,Sepsis,2024-02-19,4.7,73.0,12.2,Medical,Referred
+MRN0703,55.0,Female,Hypertension,2023-06-19,1.4,118.0,9.4,Maternity,Discharged
+MRN0704,6.0,Male,Anemia,2024-04-23,0.3,124.0,12.9,Surgical,Deceased
+MRN0705,81.0,Male,Hypertension,2023-05-11,2.5,,11.4,Medical,LAMA
+MRN0706,69.0,,Malaria,2024-09-29,1.3,115.0,7.5,Surgical,Discharged
+MRN0707,5.0,Male,Heart Failure,2024-06-30,1.2,156.0,12.6,Medical,Deceased
+MRN0708,3.0,Female,Malaria,2023-01-28,16.1,138.0,,Maternity,Discharged
+MRN0709,53.0,,Pneumonia,2024-02-08,4.8,,13.7,Medical,Discharged
+MRN0710,23.0,Male,Heart Failure,2024-08-29,4.1,93.0,11.5,Surgical,Discharged
+MRN0711,53.0,Male,Hypertension,2024-07-31,2.7,118.0,12.5,ICU,Discharged
+MRN0712,37.0,Male,Tuberculosis,2024-11-09,2.8,121.0,9.1,Surgical,Referred
+MRN0713,74.0,M,Hypertension,2023-01-28,3.9,135.0,,Pediatric,Discharged
+MRN0714,74.0,F,Hypertension,2023-03-27,6.0,114.0,10.4,Pediatric,Discharged
+MRN0715,83.0,M,Heart Failure,2024-10-20,6.1,,13.6,Pediatric,Discharged
+MRN0716,17.0,Male,Pneumonia,2024-03-14,0.9,164.0,15.7,Pediatric,Referred
+MRN0717,85.0,M,Hypertension,2023-05-19,3.5,141.0,,Maternity,LAMA
+MRN0718,78.0,F,Sepsis,2024-04-17,2.7,124.0,14.2,ICU,Referred
+MRN0719,73.0,Female,Acute Kidney Injury,2023-07-06,10.2,121.0,6.1,ICU,Referred
+MRN0720,1.0,,HIV/AIDS,2023-02-21,5.0,118.0,8.5,Surgical,Discharged
+MRN0721,51.0,M,HIV/AIDS,2023-09-24,3.8,149.0,9.1,Medical,Discharged
+MRN0722,45.0,Female,Hypertension,2024-01-24,0.6,112.0,8.1,Surgical,Discharged
+MRN0723,77.0,Female,Sepsis,2023-12-02,4.7,126.0,7.5,Surgical,Discharged
+MRN0724,,Male,Tuberculosis,2023-08-05,0.6,126.0,12.5,Surgical,Referred
+MRN0725,62.0,Male,Anemia,2024-04-10,2.1,115.0,11.0,Surgical,Discharged
+MRN0726,65.0,Female,Anemia,2023-12-01,0.8,98.0,12.4,ICU,Referred
+MRN0727,32.0,Male,Heart Failure,2023-12-12,5.9,131.0,13.2,Medical,Discharged
+MRN0728,34.0,F,HIV/AIDS,2024-01-24,1.2,124.0,12.2,Surgical,Discharged
+MRN0729,72.0,,Hypertension,2023-10-12,2.5,135.0,13.1,ICU,Discharged
+MRN0730,39.0,Female,Anemia,2024-03-07,11.3,114.0,0.5,Surgical,Deceased
+MRN0731,26.0,Male,Hypertension,2023-09-16,1.1,149.0,8.5,Pediatric,Referred
+MRN0732,34.0,Male,Heart Failure,2023-03-25,3.5,107.0,14.1,Surgical,Deceased
+MRN0733,54.0,Male,HIV/AIDS,2024-04-26,2.7,159.0,10.0,Surgical,Discharged
+MRN0734,3.0,Female,Malaria,2023-01-20,0.1,90.0,9.2,Maternity,LAMA
+MRN0735,50.0,M,Acute Kidney Injury,2024-07-06,7.9,134.0,11.1,Pediatric,Discharged
+MRN0736,12.0,,Acute Kidney Injury,2023-02-23,0.4,135.0,9.2,Medical,Discharged
+MRN0737,65.0,Female,Anemia,2023-12-25,,,10.5,Surgical,LAMA
+MRN0738,54.0,F,Acute Kidney Injury,2023-08-18,4.1,133.0,12.4,Medical,Discharged
+MRN0739,5.0,F,Malaria,2024-10-27,5.0,151.0,12.4,Pediatric,Referred
+MRN0740,57.0,Male,Hypertension,2023-03-12,5.8,81.0,9.3,Surgical,Discharged
+MRN0741,17.0,F,Heart Failure,2024-10-29,1.5,135.0,10.3,Maternity,Discharged
+MRN0742,47.0,Male,Malaria,2023-02-11,0.1,75.0,14.2,ICU,LAMA
+MRN0743,23.0,Male,Heart Failure,2023-02-01,6.4,106.0,12.7,Maternity,Discharged
+MRN0744,79.0,Female,Heart Failure,2023-09-11,3.8,158.0,16.7,Maternity,Referred
+MRN0745,85.0,Male,HIV/AIDS,2023-07-24,9.0,113.0,14.5,ICU,Discharged
+MRN0746,14.0,Female,Hypertension,2023-01-21,8.6,102.0,14.4,ICU,Discharged
+MRN0747,66.0,Female,Sepsis,2024-09-28,9.3,121.0,8.0,ICU,Discharged
+MRN0748,75.0,Female,Acute Kidney Injury,2023-06-06,3.3,,13.4,Surgical,Discharged
+MRN0749,51.0,Female,Sepsis,2023-09-02,2.0,88.0,,Medical,Discharged
+MRN0750,38.0,Female,HIV/AIDS,2023-05-10,7.8,104.0,10.1,Medical,Discharged
+MRN0751,64.0,Female,Heart Failure,2024-04-29,3.0,155.0,11.9,ICU,LAMA
+MRN0752,38.0,Female,Anemia,2024-11-16,1.0,162.0,13.9,Maternity,Discharged
+MRN0753,50.0,Female,Acute Kidney Injury,2023-04-28,9.7,123.0,12.8,Pediatric,Discharged
+MRN0754,82.0,Male,Acute Kidney Injury,2024-07-31,10.7,100.0,9.3,ICU,Discharged
+MRN0755,30.0,Female,Hypertension,2023-08-12,3.1,167.0,13.4,Maternity,Discharged
+MRN0756,79.0,Male,Pneumonia,2024-04-21,0.4,157.0,9.9,Maternity,Referred
+MRN0757,51.0,Female,Type 2 Diabetes,2024-12-17,2.5,139.0,12.0,Surgical,LAMA
+MRN0758,63.0,Female,Type 2 Diabetes,2023-09-20,8.1,109.0,10.7,Surgical,Discharged
+MRN0759,52.0,Female,Type 2 Diabetes,2024-01-13,11.6,124.0,11.0,Medical,Deceased
+MRN0760,38.0,Female,Pneumonia,2023-06-21,1.1,122.0,13.4,Medical,Discharged
+MRN0761,,,Hypertension,2024-09-12,0.3,132.0,8.9,Pediatric,Discharged
+MRN0762,79.0,F,Pneumonia,2024-09-13,10.5,154.0,16.4,Pediatric,Referred
+MRN0763,30.0,F,Type 2 Diabetes,2023-04-28,2.5,143.0,6.9,Pediatric,Discharged
+MRN0764,51.0,M,HIV/AIDS,2023-06-17,3.9,103.0,10.0,Pediatric,Referred
+MRN0765,81.0,Male,Malaria,2023-11-15,17.2,153.0,12.4,Maternity,Deceased
+MRN0766,5.0,Male,Heart Failure,2023-04-21,0.3,131.0,,Maternity,Discharged
+MRN0767,29.0,Female,Pneumonia,2024-08-15,5.2,139.0,,Medical,LAMA
+MRN0768,4.0,Male,Hypertension,2023-01-27,0.4,154.0,11.4,Surgical,Referred
+MRN0769,10.0,Female,Hypertension,2023-11-16,2.4,103.0,12.5,Surgical,Discharged
+MRN0770,56.0,Female,Sepsis,2024-08-12,8.1,124.0,10.9,ICU,Discharged
+MRN0771,17.0,Female,Malaria,2024-11-24,2.8,114.0,15.0,Maternity,Discharged
+MRN0772,74.0,Female,Anemia,2024-01-20,29.4,94.0,13.6,Pediatric,LAMA
+MRN0773,,Female,Acute Kidney Injury,2024-02-11,4.1,132.0,13.7,Pediatric,Referred
+MRN0774,84.0,Female,Type 2 Diabetes,2023-07-23,1.9,175.0,9.1,ICU,Discharged
+MRN0775,88.0,M,Anemia,2023-03-19,1.2,88.0,11.3,Surgical,Discharged
+MRN0776,69.0,Female,Sepsis,2024-08-29,2.2,124.0,10.7,Pediatric,Discharged
+MRN0777,34.0,F,Type 2 Diabetes,2024-12-08,2.3,138.0,9.0,Surgical,Discharged
+MRN0778,6.0,Male,Malaria,2024-10-04,0.4,127.0,12.4,ICU,Discharged
+MRN0779,53.0,,Sepsis,2023-09-06,2.3,123.0,,Surgical,Discharged
+MRN0780,66.0,Female,Type 2 Diabetes,2023-04-15,3.1,99.0,13.1,Surgical,Discharged
+MRN0781,77.0,Female,Malaria,2024-12-14,6.4,130.0,8.8,Surgical,Discharged
+MRN0782,43.0,Male,Tuberculosis,2023-11-05,5.3,110.0,15.8,Pediatric,Discharged
+MRN0783,75.0,Female,Anemia,2024-12-01,6.2,81.0,9.3,Medical,Discharged
+MRN0784,23.0,Male,Anemia,2024-09-06,0.0,149.0,12.0,Maternity,Referred
+MRN0785,55.0,Male,Acute Kidney Injury,2023-05-04,1.2,144.0,13.5,Surgical,Discharged
+MRN0786,80.0,Female,Malaria,2024-08-02,5.4,126.0,10.1,Surgical,Discharged
+MRN0787,75.0,Female,Pneumonia,2023-02-12,3.3,130.0,13.6,Surgical,Discharged
+MRN0788,16.0,Female,Tuberculosis,2023-12-22,0.0,146.0,8.4,Medical,Discharged
+MRN0789,8.0,,HIV/AIDS,2024-06-29,8.2,129.0,,ICU,Discharged
+MRN0790,4.0,Female,Type 2 Diabetes,2024-03-14,7.4,143.0,11.5,Pediatric,Discharged
+MRN0791,4.0,Female,Tuberculosis,2024-11-08,4.0,119.0,10.0,Medical,Discharged
+MRN0792,56.0,Male,Malaria,2024-01-15,0.3,151.0,10.8,Surgical,Deceased
+MRN0793,25.0,Female,Heart Failure,2023-03-12,7.3,131.0,13.5,Medical,Referred
+MRN0794,67.0,Female,Type 2 Diabetes,2024-06-02,4.4,129.0,10.0,Medical,Referred
+MRN0795,67.0,,Hypertension,2024-10-25,7.6,,9.6,Medical,Referred
+MRN0796,27.0,M,Anemia,2023-12-16,,131.0,10.9,ICU,Referred
+MRN0797,32.0,Female,Malaria,2023-01-13,8.1,,8.6,Maternity,Discharged
+MRN0798,,Male,Hypertension,2024-03-06,3.6,112.0,16.1,Pediatric,Discharged
+MRN0799,61.0,F,Acute Kidney Injury,2024-05-16,0.8,109.0,10.1,ICU,Discharged
+MRN0800,51.0,M,Sepsis,2023-04-19,5.6,104.0,0.5,ICU,Discharged
+MRN0801,19.0,Male,HIV/AIDS,2024-03-19,4.8,167.0,12.0,Maternity,Referred
+MRN0802,21.0,Male,HIV/AIDS,2024-01-06,6.8,152.0,9.0,ICU,Discharged
+MRN0803,5.0,M,Hypertension,2024-10-12,0.9,163.0,11.5,Medical,Discharged
+MRN0804,82.0,Male,Anemia,2024-04-15,1.1,101.0,13.5,Medical,Discharged
+MRN0805,42.0,F,Acute Kidney Injury,2024-12-25,11.1,126.0,11.0,Surgical,Discharged
+MRN0806,61.0,Female,Heart Failure,2023-06-06,6.9,99.0,14.5,ICU,Referred
+MRN0807,22.0,Male,Anemia,2024-03-21,11.9,111.0,14.1,Surgical,Deceased
+MRN0808,21.0,M,Tuberculosis,2023-06-30,7.1,107.0,13.8,Pediatric,Discharged
+MRN0809,70.0,Male,HIV/AIDS,2024-06-18,4.5,150.0,10.4,Medical,Referred
+MRN0810,1.0,Female,Tuberculosis,2024-10-28,5.3,117.0,8.8,Pediatric,Discharged
+MRN0811,5.0,Male,Type 2 Diabetes,2023-10-04,11.0,146.0,10.0,Maternity,Deceased
+MRN0812,12.0,Male,Pneumonia,2024-09-22,4.3,137.0,12.0,Medical,Discharged
+MRN0813,46.0,Female,Malaria,2024-07-05,5.0,171.0,12.9,Pediatric,Discharged
+MRN0814,34.0,Female,Acute Kidney Injury,2024-05-10,0.9,95.0,6.1,Maternity,Discharged
+MRN0815,49.0,Female,Anemia,2024-04-21,3.2,150.0,11.5,Pediatric,Referred
+MRN0816,78.0,M,HIV/AIDS,2024-03-22,6.3,148.0,11.9,Maternity,LAMA
+MRN0817,45.0,Female,Tuberculosis,2024-08-29,1.6,106.0,10.8,Maternity,Discharged
+MRN0818,27.0,Male,Sepsis,2023-10-02,1.1,145.0,14.7,Medical,Discharged
+MRN0819,73.0,Male,Type 2 Diabetes,2023-11-27,1.9,132.0,12.6,Surgical,LAMA
+MRN0820,26.0,F,Malaria,2023-09-09,1.4,120.0,14.8,Maternity,Discharged
+MRN0821,,M,Malaria,2023-03-30,,109.0,11.0,Maternity,Discharged
+MRN0822,86.0,Female,Anemia,2023-10-13,2.8,111.0,13.8,Medical,Discharged
+MRN0823,56.0,Male,Acute Kidney Injury,2024-04-06,11.9,166.0,15.6,Surgical,Discharged
+MRN0824,63.0,Male,Heart Failure,2023-09-07,3.5,125.0,14.8,ICU,Referred
+MRN0825,48.0,Female,Sepsis,2024-04-20,1.0,141.0,,ICU,Referred
+MRN0826,61.0,F,Anemia,2024-08-06,0.4,109.0,,Surgical,Discharged
+MRN0827,81.0,Female,Tuberculosis,2024-09-16,6.0,109.0,10.6,Pediatric,Discharged
+MRN0828,26.0,M,Pneumonia,2024-11-15,2.4,147.0,12.7,Medical,Deceased
+MRN0829,36.0,M,Hypertension,2024-01-24,8.6,98.0,13.2,Surgical,Discharged
+MRN0830,1.0,Male,Heart Failure,2023-12-11,5.4,117.0,9.4,ICU,Deceased
+MRN0831,8.0,Female,Acute Kidney Injury,2023-01-30,8.0,126.0,11.7,Maternity,Discharged
+MRN0832,52.0,Male,Type 2 Diabetes,2024-05-21,1.6,127.0,6.5,ICU,Discharged
+MRN0833,79.0,Male,Heart Failure,2023-11-29,5.9,121.0,15.1,Maternity,LAMA
+MRN0834,47.0,F,HIV/AIDS,2023-07-06,1.5,133.0,10.2,Medical,Referred
+MRN0835,56.0,Female,Acute Kidney Injury,2024-05-14,14.0,139.0,11.6,Maternity,Discharged
+MRN0836,86.0,Female,Pneumonia,2023-08-06,5.1,140.0,10.7,Surgical,Referred
+MRN0837,14.0,Male,HIV/AIDS,2023-12-30,2.0,105.0,14.4,Maternity,Discharged
+MRN0838,28.0,Male,Heart Failure,2023-09-22,1.6,119.0,4.4,Pediatric,Discharged
+MRN0839,87.0,Male,Hypertension,2023-12-15,1.1,149.0,11.5,Surgical,LAMA
+MRN0840,78.0,Male,Hypertension,2023-10-14,5.9,143.0,11.2,Medical,Referred
+MRN0841,88.0,Female,Pneumonia,2024-09-02,1.2,98.0,10.4,Surgical,Discharged
+MRN0842,2.0,Male,Malaria,2024-12-19,4.5,132.0,15.8,Pediatric,Discharged
+MRN0843,26.0,Female,Sepsis,2023-10-10,1.5,85.0,9.3,Medical,Discharged
+MRN0844,14.0,Male,Type 2 Diabetes,2024-07-23,5.4,126.0,,ICU,Discharged
+MRN0845,59.0,Male,Malaria,2023-01-11,8.4,163.0,12.4,Pediatric,Discharged
+MRN0846,56.0,Male,Hypertension,2024-06-13,7.5,106.0,14.7,Medical,Referred
+MRN0847,7.0,Female,Hypertension,2023-07-15,7.2,108.0,9.8,Maternity,Discharged
+MRN0848,3.0,Female,Tuberculosis,2023-03-29,1.0,140.0,9.7,Surgical,Deceased
+MRN0849,23.0,Female,HIV/AIDS,2023-09-05,150.0,94.0,14.2,Medical,Discharged
+MRN0850,18.0,Female,Heart Failure,2024-02-21,6.0,112.0,12.6,Surgical,Discharged
+MRN0851,38.0,Female,Type 2 Diabetes,2024-05-15,2.3,,7.6,Maternity,Discharged
+MRN0852,15.0,Male,Pneumonia,2024-07-22,2.8,112.0,,Medical,Discharged
+MRN0853,64.0,Male,Heart Failure,2023-09-04,0.2,120.0,12.5,ICU,Discharged
+MRN0854,89.0,M,Tuberculosis,2024-12-08,1.5,140.0,13.6,Pediatric,LAMA
+MRN0855,28.0,Female,Hypertension,2024-05-02,0.2,133.0,9.8,Medical,Discharged
+MRN0856,74.0,Male,Pneumonia,2024-10-23,10.6,130.0,4.2,Maternity,LAMA
+MRN0857,,F,Hypertension,2024-12-29,1.4,118.0,12.8,Medical,Discharged
+MRN0858,57.0,M,Type 2 Diabetes,2024-05-17,4.1,132.0,8.4,Surgical,LAMA
+MRN0859,17.0,Male,HIV/AIDS,2024-04-03,0.2,123.0,6.5,Medical,Discharged
+MRN0860,86.0,Female,Heart Failure,2023-01-18,5.5,134.0,4.4,ICU,LAMA
+MRN0861,44.0,Female,Heart Failure,2023-04-06,2.0,115.0,13.5,Medical,Discharged
+MRN0862,25.0,Female,Malaria,2023-10-29,,121.0,11.8,Pediatric,Referred
+MRN0863,17.0,Male,Pneumonia,2023-08-15,11.0,105.0,10.9,Medical,LAMA
+MRN0864,13.0,Male,Sepsis,2024-02-19,2.0,124.0,15.0,Surgical,Discharged
+MRN0865,84.0,Female,Tuberculosis,2024-12-09,11.6,109.0,13.1,Medical,Discharged
+MRN0866,25.0,Female,Sepsis,2023-09-07,27.8,103.0,15.5,ICU,Discharged
+MRN0867,68.0,M,Malaria,2023-11-10,8.7,130.0,8.0,Maternity,LAMA
+MRN0868,10.0,Female,Type 2 Diabetes,2024-11-10,9.3,,11.4,Medical,Discharged
+MRN0869,67.0,Male,Tuberculosis,2024-08-18,1.4,141.0,7.5,Medical,Discharged
+MRN0870,18.0,Female,HIV/AIDS,2024-01-13,4.3,116.0,10.9,Pediatric,Discharged
+MRN0871,86.0,Male,Sepsis,2024-04-29,0.3,133.0,10.9,ICU,Discharged
+MRN0872,34.0,Female,HIV/AIDS,2024-07-20,0.5,136.0,13.1,Maternity,Deceased
+MRN0873,8.0,Female,Sepsis,2024-06-27,34.0,134.0,11.6,Surgical,Discharged
+MRN0874,40.0,Male,HIV/AIDS,2023-12-19,2.0,108.0,13.1,Medical,Discharged
+MRN0875,83.0,Female,Sepsis,2024-03-11,6.9,128.0,13.3,Maternity,LAMA
+MRN0876,42.0,Male,HIV/AIDS,2024-07-17,8.2,132.0,16.9,Surgical,Discharged
+MRN0877,41.0,Male,Malaria,2023-12-05,9.8,125.0,10.7,ICU,Referred
+MRN0878,6.0,Male,Acute Kidney Injury,2023-12-27,30.2,83.0,9.1,ICU,Discharged
+MRN0879,52.0,Male,Tuberculosis,2024-12-20,1.4,128.0,12.1,Maternity,Discharged
+MRN0880,26.0,,Pneumonia,2024-04-09,0.2,169.0,9.5,Surgical,Discharged
+MRN0881,,Female,Type 2 Diabetes,2023-10-05,2.6,118.0,15.2,ICU,Referred
+MRN0882,59.0,Male,Anemia,2023-11-10,0.7,110.0,10.8,Maternity,Discharged
+MRN0883,56.0,Female,Hypertension,2023-09-15,0.1,132.0,10.1,ICU,Discharged
+MRN0884,59.0,Male,Pneumonia,2023-08-25,2.2,131.0,10.3,ICU,Discharged
+MRN0885,70.0,,Hypertension,2023-05-04,7.7,149.0,13.3,ICU,Discharged
+MRN0886,33.0,Female,Tuberculosis,2023-07-17,4.2,100.0,11.1,Pediatric,Referred
+MRN0887,53.0,Female,Pneumonia,2023-11-20,1.9,140.0,9.9,Surgical,Discharged
+MRN0888,,Male,HIV/AIDS,2023-05-03,5.3,137.0,15.7,Maternity,Referred
+MRN0889,21.0,Female,HIV/AIDS,2024-07-02,1.3,,,Maternity,Discharged
+MRN0890,70.0,Female,Anemia,2024-12-07,0.1,132.0,11.6,Surgical,Referred
+MRN0891,70.0,M,Hypertension,2023-07-09,7.2,146.0,-1.0,Surgical,Discharged
+MRN0892,4.0,Male,Type 2 Diabetes,2023-07-16,4.9,142.0,7.4,Surgical,Discharged
+MRN0893,75.0,Male,Tuberculosis,2023-08-10,7.2,102.0,12.7,Surgical,Discharged
+MRN0894,62.0,,HIV/AIDS,2024-05-10,0.2,141.0,8.9,Medical,Referred
+MRN0895,62.0,Female,Acute Kidney Injury,2023-10-11,9.1,124.0,13.6,Maternity,Discharged
+MRN0896,24.0,Female,Malaria,2024-08-26,4.8,126.0,9.1,Medical,Deceased
+MRN0897,55.0,Male,Malaria,2024-06-21,4.1,126.0,13.2,ICU,Deceased
+MRN0898,9.0,,Sepsis,2024-09-03,4.9,122.0,14.3,ICU,Discharged
+MRN0899,3.0,Male,Type 2 Diabetes,2023-10-17,10.0,,13.7,Maternity,Discharged
+MRN0900,31.0,Female,Malaria,2023-04-13,4.4,,12.1,ICU,Discharged
+MRN0901,40.0,M,Sepsis,2023-07-18,4.3,103.0,10.9,Surgical,Discharged
+MRN0902,36.0,Male,Hypertension,2023-10-31,,117.0,10.1,Medical,Referred
+MRN0903,24.0,Female,HIV/AIDS,2023-08-21,7.1,129.0,15.2,Surgical,Referred
+MRN0904,6.0,Male,HIV/AIDS,2024-01-05,2.9,150.0,9.8,ICU,Discharged
+MRN0905,66.0,Male,Acute Kidney Injury,2023-07-03,6.1,137.0,8.9,Medical,Discharged
+MRN0906,84.0,M,Pneumonia,2023-11-06,2.5,108.0,13.2,Surgical,Discharged
+MRN0907,75.0,F,Malaria,2023-01-15,1.3,175.0,9.5,Maternity,Discharged
+MRN0908,4.0,Female,Hypertension,2024-12-26,4.5,130.0,9.1,Surgical,Referred
+MRN0909,79.0,Female,Heart Failure,2024-06-30,13.2,151.0,7.9,ICU,Discharged
+MRN0910,6.0,Male,Malaria,2023-05-10,13.2,122.0,10.3,Medical,Referred
+MRN0911,51.0,Male,Type 2 Diabetes,2023-10-08,2.1,136.0,11.3,Maternity,Discharged
+MRN0912,62.0,Male,Pneumonia,2023-02-16,3.8,142.0,12.1,Medical,Discharged
+MRN0913,57.0,Male,Malaria,2023-02-25,1.2,149.0,13.9,Maternity,Discharged
+MRN0914,66.0,Male,Hypertension,2024-07-20,27.2,146.0,12.8,Medical,Discharged
+MRN0915,79.0,Female,Malaria,2023-10-27,19.8,142.0,11.0,ICU,Discharged
+MRN0916,75.0,Male,Type 2 Diabetes,2024-12-15,5.2,119.0,11.0,Maternity,Deceased
+MRN0917,8.0,Male,Heart Failure,2023-05-10,8.2,114.0,12.8,Pediatric,Deceased
+MRN0918,26.0,Female,Tuberculosis,2024-10-15,6.3,132.0,14.7,Medical,Discharged
+MRN0919,51.0,M,Anemia,2024-05-17,4.5,144.0,11.8,Medical,Discharged
+MRN0920,45.0,Male,Heart Failure,2023-04-16,0.3,121.0,10.3,Surgical,Discharged
+MRN0921,44.0,,Sepsis,2023-01-13,3.0,146.0,9.0,Maternity,Deceased
+MRN0922,5.0,F,Malaria,2024-08-10,5.6,154.0,7.9,Pediatric,Discharged
+MRN0923,70.0,Male,HIV/AIDS,2023-10-19,5.7,107.0,13.2,ICU,LAMA
+MRN0924,26.0,M,Acute Kidney Injury,2024-04-25,2.3,108.0,12.9,Surgical,Discharged
+MRN0925,68.0,Female,HIV/AIDS,2024-05-05,14.2,122.0,12.9,Pediatric,Discharged
+MRN0926,19.0,Female,Heart Failure,2024-03-27,0.9,131.0,11.2,Maternity,LAMA
+MRN0927,84.0,Female,HIV/AIDS,2023-12-15,3.5,115.0,15.0,Pediatric,Discharged
+MRN0928,,Female,Hypertension,2023-07-08,5.9,,10.3,Medical,Discharged
+MRN0929,12.0,Female,HIV/AIDS,2023-02-22,6.0,133.0,13.9,Medical,Discharged
+MRN0930,47.0,Female,Pneumonia,2023-09-16,5.2,126.0,11.4,Surgical,Discharged
+MRN0931,1.0,Female,Tuberculosis,2024-05-04,1.6,96.0,10.0,Maternity,Discharged
+MRN0932,14.0,Female,Malaria,2023-04-27,,99.0,,Maternity,Referred
+MRN0933,64.0,Female,HIV/AIDS,2023-03-08,5.1,131.0,12.5,Pediatric,Referred
+MRN0934,38.0,Female,Type 2 Diabetes,2024-02-15,4.6,82.0,12.4,Surgical,Discharged
+MRN0935,37.0,Male,Tuberculosis,2024-05-18,1.0,145.0,11.7,Maternity,LAMA
+MRN0936,11.0,Male,Tuberculosis,2023-03-17,6.1,122.0,11.4,Medical,Discharged
+MRN0937,77.0,M,HIV/AIDS,2024-08-13,3.0,190.0,17.5,Pediatric,Discharged
+MRN0938,3.0,Male,Tuberculosis,2024-10-06,5.5,171.0,14.5,ICU,Discharged
+MRN0939,33.0,Male,Acute Kidney Injury,2024-12-03,9.1,121.0,13.3,Medical,Discharged
+MRN0940,6.0,Male,HIV/AIDS,2023-02-24,0.9,123.0,11.8,Surgical,Discharged
+MRN0941,50.0,Male,Hypertension,2023-06-05,0.1,145.0,14.0,Maternity,LAMA
+MRN0942,10.0,,Heart Failure,2023-06-02,7.6,159.0,12.8,Medical,Discharged
+MRN0943,5.0,Female,Pneumonia,2024-07-30,4.7,92.0,11.6,ICU,Discharged
+MRN0944,23.0,,Anemia,2023-11-08,6.0,89.0,10.7,ICU,Discharged
+MRN0945,10.0,Female,Sepsis,2023-03-29,9.1,113.0,11.3,Surgical,Referred
+MRN0946,44.0,Female,Tuberculosis,2023-09-12,8.1,137.0,3.6,Medical,Deceased
+MRN0947,2.0,Male,Hypertension,2023-05-02,16.2,135.0,,Pediatric,Discharged
+MRN0948,13.0,Female,Malaria,2024-07-25,3.8,146.0,10.3,Medical,Discharged
+MRN0949,40.0,Male,Malaria,2024-03-02,3.4,101.0,15.5,ICU,Discharged
+MRN0950,2.0,F,Sepsis,2024-09-12,2.6,79.0,11.5,Surgical,Discharged
+MRN0951,,M,Pneumonia,2024-09-02,0.8,142.0,8.5,Surgical,Discharged
+MRN0952,65.0,Male,Tuberculosis,2024-09-25,4.3,108.0,11.4,Pediatric,Discharged
+MRN0953,63.0,,Acute Kidney Injury,2023-08-20,1.6,85.0,8.9,Surgical,Discharged
+MRN0954,73.0,M,Sepsis,2024-06-19,12.7,128.0,12.7,Surgical,Discharged
+MRN0955,17.0,Female,Pneumonia,2024-01-25,4.4,141.0,12.2,Surgical,Discharged
+MRN0956,9.0,Male,Tuberculosis,2024-04-06,4.5,123.0,13.9,Surgical,LAMA
+MRN0957,75.0,Female,Hypertension,2024-03-29,2.2,116.0,9.5,Surgical,LAMA
+MRN0958,15.0,Female,Heart Failure,2023-11-01,0.3,122.0,11.6,ICU,Discharged
+MRN0959,24.0,Male,Acute Kidney Injury,2024-08-25,0.2,118.0,8.1,Medical,Discharged
+MRN0960,38.0,Male,Anemia,2024-03-15,2.8,98.0,13.3,Maternity,Discharged
+MRN0961,35.0,M,Malaria,2023-11-09,0.4,111.0,12.8,Surgical,Discharged
+MRN0962,49.0,Male,Type 2 Diabetes,2024-08-05,4.7,,12.7,Maternity,Referred
+MRN0963,69.0,Female,Hypertension,2024-09-27,10.6,131.0,11.5,Maternity,Discharged
+MRN0964,62.0,,Malaria,2023-03-03,10.7,128.0,12.5,ICU,Deceased
+MRN0965,60.0,F,HIV/AIDS,2024-09-16,5.4,105.0,15.5,Surgical,LAMA
+MRN0966,50.0,Male,Type 2 Diabetes,2023-04-12,1.2,121.0,10.8,Maternity,Discharged
+MRN0967,78.0,F,Malaria,2023-08-01,9.9,81.0,11.8,Surgical,Discharged
+MRN0968,75.0,Male,Pneumonia,2024-10-02,,129.0,8.8,Pediatric,Discharged
+MRN0969,9.0,Male,Acute Kidney Injury,2023-08-05,1.1,154.0,9.3,Pediatric,Discharged
+MRN0970,34.0,Female,Malaria,2023-09-28,6.7,96.0,11.7,Pediatric,Discharged
+MRN0971,76.0,Male,Anemia,2024-11-07,1.7,113.0,14.3,Maternity,Discharged
+MRN0972,35.0,Female,Heart Failure,2023-03-25,8.1,132.0,10.9,Pediatric,Deceased
+MRN0973,1.0,Female,Pneumonia,2023-06-10,29.5,150.0,10.9,ICU,Discharged
+MRN0974,40.0,Male,Hypertension,2023-09-03,0.2,116.0,10.5,ICU,Discharged
+MRN0975,64.0,Male,Hypertension,2023-06-27,11.4,111.0,10.2,Maternity,Discharged
+MRN0976,22.0,Female,Hypertension,2024-07-19,4.9,250.0,12.2,Surgical,Referred
+MRN0977,60.0,Female,Hypertension,2023-03-18,18.1,,7.8,Medical,Discharged
+MRN0978,64.0,Female,Heart Failure,2023-06-10,3.1,166.0,14.7,Surgical,Deceased
+MRN0979,72.0,Male,Malaria,2023-01-03,9.4,131.0,9.8,Surgical,Discharged
+MRN0980,11.0,Female,Tuberculosis,2024-02-23,0.3,125.0,13.3,Surgical,Discharged
+MRN0981,14.0,Male,Malaria,2024-04-06,2.0,131.0,8.3,Surgical,Discharged
+MRN0982,60.0,Male,HIV/AIDS,2024-12-06,0.3,125.0,13.2,Medical,Discharged
+MRN0983,,M,Acute Kidney Injury,2024-08-31,18.5,109.0,13.2,Pediatric,Deceased
+MRN0984,35.0,Male,Type 2 Diabetes,2024-04-26,8.5,141.0,12.5,Surgical,Discharged
+MRN0985,85.0,Male,Tuberculosis,2023-10-26,9.6,260.0,9.0,ICU,Deceased
+MRN0986,37.0,Female,Tuberculosis,2023-02-03,13.9,125.0,12.1,Maternity,Discharged
+MRN0987,5.0,Female,Malaria,2023-08-26,0.4,105.0,8.5,Maternity,Discharged
+MRN0988,83.0,Female,Tuberculosis,2023-10-23,2.4,151.0,10.9,ICU,Discharged
+MRN0989,78.0,Male,Sepsis,2024-12-24,0.4,138.0,14.1,Surgical,Discharged
+MRN0990,26.0,Male,Sepsis,2023-10-17,200.0,114.0,13.5,Medical,Referred
+MRN0991,,Male,HIV/AIDS,2024-12-20,1.3,,11.5,Pediatric,Referred
+MRN0992,4.0,Male,Type 2 Diabetes,2024-04-09,3.2,115.0,9.1,Maternity,Discharged
+MRN0993,89.0,Female,Anemia,2023-03-14,1.6,109.0,13.1,Pediatric,Discharged
+MRN0994,42.0,F,Heart Failure,2024-12-04,0.5,110.0,11.5,Medical,Discharged
+MRN0995,89.0,Female,Malaria,2023-08-28,0.9,90.0,5.7,Maternity,Discharged
+MRN0996,18.0,M,Heart Failure,2023-09-28,0.8,134.0,,Pediatric,Discharged
+MRN0997,40.0,Female,Anemia,2024-10-02,18.1,88.0,11.4,Medical,Discharged
+MRN0998,72.0,Female,Malaria,2024-08-26,7.1,,14.5,Pediatric,Discharged
+MRN0999,39.0,Male,Malaria,2024-11-08,17.2,83.0,8.8,Surgical,Discharged
+MRN1000,14.0,Female,Type 2 Diabetes,2023-07-22,2.9,123.0,3.6,Medical,Discharged
+MRN0139,79.0,Female,Tuberculosis,2024-11-27,6.7,,,Maternity,Discharged
+MRN0810,1.0,Female,Tuberculosis,2024-10-28,5.3,117.0,8.8,Pediatric,Discharged
+MRN0850,18.0,Female,Heart Failure,2024-02-21,6.0,112.0,12.6,Surgical,Discharged
+MRN0016,88.0,Male,Acute Kidney Injury,2023-04-06,3.3,108.0,10.7,Surgical,Discharged
+MRN0885,70.0,,Hypertension,2023-05-04,7.7,149.0,13.3,ICU,Discharged
+MRN0771,17.0,Female,Malaria,2024-11-24,2.8,114.0,15.0,Maternity,Discharged
+MRN0291,21.0,Female,Sepsis,2023-01-16,13.0,,12.9,Medical,LAMA
+MRN0011,24.0,Female,HIV/AIDS,2023-03-31,,,13.0,Surgical,Discharged
+MRN0719,73.0,Female,Acute Kidney Injury,2023-07-06,10.2,121.0,6.1,ICU,Referred
+MRN0813,46.0,Female,Malaria,2024-07-05,5.0,171.0,12.9,Pediatric,Discharged
+MRN0258,12.0,,Malaria,2024-11-05,1.1,128.0,10.9,ICU,Discharged
+MRN0484,40.0,Female,Heart Failure,2023-01-25,2.2,148.0,10.8,Surgical,Discharged
+MRN0061,35.0,Male,Acute Kidney Injury,2023-07-16,,131.0,10.0,Maternity,Discharged
+MRN0560,14.0,Male,Anemia,2023-11-08,1.5,161.0,10.7,Medical,Referred
+MRN0243,82.0,Female,Hypertension,2023-10-13,8.2,,6.9,ICU,Discharged
+MRN0430,61.0,Male,Pneumonia,2024-03-13,8.2,134.0,8.7,Surgical,Discharged
+MRN0924,26.0,M,Acute Kidney Injury,2024-04-25,2.3,108.0,12.9,Surgical,Discharged
+MRN0025,58.0,Male,HIV/AIDS,2024-12-19,0.4,260.0,9.3,Surgical,Discharged
+MRN0418,62.0,F,Malaria,2024-03-09,,87.0,7.6,Medical,Discharged
+MRN0781,77.0,Female,Malaria,2024-12-14,6.4,130.0,8.8,Surgical,Discharged
